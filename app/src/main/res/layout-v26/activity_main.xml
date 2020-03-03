@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dobpaper"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="@string/app_title"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="40sp" />
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/choose_language"
+        android:text="@string/choose_language"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:background="@null"
+        />
+    <LinearLayout
+
+        android:id="@+id/details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lily"
+            android:hint="@string/want_to_know"
+            android:textColor="#000000"
+            android:textColorHint="#000000"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="30sp"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/dob"
+            android:textColor="@android:color/holo_orange_dark"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="@string/date_format"
+            android:textColor="#000000"
+            android:textSize="25sp"
+
+            />
+
+        <View
+            android:layout_width="200dp"
+            android:layout_height="0.5dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:background="@android:color/background_dark" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/berkshire_swash</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/creepster</item>
+        <item>@font/diplomata</item>
+        <item>@font/lily</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/sonsie_one</item>
+    </array>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.bitsandbytes.namefacts">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+
+                <meta-data
+                    android:name="com.google.android.gms.ads.APPLICATION_ID"
+                    android:value="ca-app-pub-2276957166790995~5793034304"/>
+
+
+        <activity
+            android:name="com.bitsandbytes.namefacts.Soul_urge"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name="com.bitsandbytes.namefacts.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bitsandbytes.namefacts.Name_Details"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bitsandbytes.namefacts.DOB_Details"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.bitsandbytes.namefacts.SpalshScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
