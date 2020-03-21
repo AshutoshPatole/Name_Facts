@@ -5,5 +5,4 @@
     android:background="@drawable/background_splash_screen"
     android:orientation="vertical">
 
-
 </LinearLayout>

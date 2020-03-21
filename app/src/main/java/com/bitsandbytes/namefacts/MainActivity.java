@@ -8,7 +8,6 @@ import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
-import android.util.Log;
 import android.view.View;
 import android.widget.DatePicker;
 import android.widget.TextView;
@@ -24,8 +23,6 @@ import hotchemi.android.rate.OnClickButtonListener;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "Ashutosh";
-    private static final String MESSAGE_KEY = "DOB";
     private TextView mDisplayDate;
     private DatePickerDialog.OnDateSetListener mDateSetListener;
 
@@ -78,36 +75,11 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onDateSet(DatePicker datePicker, int year, int month, int day) {
                 month = month + 1;
-                Log.d(TAG, "onDateSet: mm/dd/yyy: " + month + "/" + day + "/" + year);
-
-                int total;
-                int result = 0, remainder;
-                total = month + day + year;
-                while (total > 0) {
-                    remainder = total % 10;
-                    result += remainder;
-                    total = total / 10;
-
-                }
-                int tot, finalResult = 0;
-                while (result != 0) {
-                    tot = result % 10;
-                    finalResult += tot;
-                    result /= 10;
-
-                }
-                String date = day + "/" + month + "/" + year;
-                mDisplayDate.setText(date);
-
-                Intent intent = new Intent(MainActivity.this, DOB_Details.class);
-                intent.putExtra(MESSAGE_KEY, finalResult);
-                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-                startActivity(intent);
+                startActivity(new Intent(MainActivity.this, Name_Details.class));
             }
         };
 
     }
-
 
     private Boolean exit = false;
 

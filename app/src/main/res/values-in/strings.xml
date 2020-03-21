@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NameFacts</string>
+    <string name="app_title">Nama Fakta</string>
+    <string name="want_to_know">Ingin tahu lebih banyak tentang diri Anda?</string>
+    <string name="soul_definition">The Soul Desak Nomor (kadang-kadang disebut Nomor Keinginan Hati) berasal dari nama Anda. Untuk memperjelas, itu berasal dari vokal di nama Anda (nama lahir lengkap). Angka ini melambangkan diri batiniah Anda. Selain itu, nomor dorongan jiwa Anda tahu apa keinginan, suka / tidak suka, motivator dan kebutuhan Anda.</string>
+    <string name="dob">Masukkan DOB Anda</string>
+    <string name="love">ingin tahu lebih banyak tentang kehidupan cinta dan hubungan Anda?</string>
+    <string name="click_pen">Silakan Klik pada pena di atas</string>
+    <string name="submit">Kirimkan</string>
+    <string name="Next">Lanjut</string>
+    <string name="facts_about">Fakta</string>
+    <string name="Support">Dukung Kami</string>
+    <string name="you_are">kamu adalah</string>
+    <string name="full_name">Masukkan nama lengkapmu</string>
+</resources>

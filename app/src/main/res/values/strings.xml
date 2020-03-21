@@ -1,225 +1,23 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">NameFacts</string>
     <string name="app_title">Name Facts</string>
     <string name="want_to_know">Want to know more about yourSelf ?</string>
     <string name="dob">Enter Your DOB</string>
-    <string name="date_format">DD/MM/YYYY</string>
+    <string name="date_format" translatable="false">DD/MM/YYYY</string>
     <string name="love">want to know more about your love life and relationships ?</string>
     <string name="submit">Submit</string>
     <string name="Next">Next</string>
     <string name="facts_about">Facts</string>
     <string name="Support">Support Us</string>
-    <string name="choose_language">Choose Language</string>
     <string name="you_are">you are</string>
     <string name="soul_definition">The Soul Urge Number (sometimes called The Heart\'s Desire Number) is derived from your name. To clarify, it is derived from the vowels in your name (full birth name). This number represents your inner self. In addition, your soul urge number knows what your desires, likes/dislikes, motivators and needs are.</string>
     <string name="click_pen">Please Click on the pen above</string>
     <string name="full_name">Enter your full name</string>
+    <string name="test" translatable="false">this is test buddy</string>
 
-    <string name="life_1">
-
-        Being an inborn leader number 1 always wants to rule or control something. It can be concerned with work or relationships as well as with self-discipline and strive for development. Such people are emotional and determined.  You are a bit stubborn, but it makes you purposeful. If you are enthusiastic about something you can fill the world around with your energy. You are quite caring, but in many cases you become overprotective about people close to you. In some cases such people can become home tyrants.
-
- At least their look is very important and such people make an essential input in their beauty. Such an attitude is really close to the vanity, hypocrisy, narcissism and selfishness.
-
-Number 1 apt to be emotional and sometimes this characteristic is so dominating that the emotions manifested are anger, paranoia, and rage.  You need to work on the control of your emotions; otherwise you will damage your nervous system. Control and discipline are easy for you, so managing your emotions won’t be hard. Your abilities to restrain yourself if needed and to make everything for your purpose are surprising.
-
-As you like how you look, you need to control your diet and avoid unhealthy habits. Your appearance will often help you through the life to prepossess other people. You are very energetic person and types of sport like golf or weight-lifting won’t match your needs, so go for athletics and everything dynamic, even dancing if you like. You main mistake in the competitions is that you believe yourself to be better and underestimate other participants.
-
+    <string name="expression_1"><![CDATA[          <b>Highly focused, an originator and self-starter.</b> You are a natural leader, independent and individualistic. You are extremely ambitious, original, and courageous. You employ new and unproven methods. You are an explorer and an innovator. Openness to too many peripheral influences limits and frustrates you. You possess executive abilities and are most successful at owning or independently managing a business.  You need the freedom to make your own decisions, based on your own ideas.  <b> The number 1 symbolizes the front-runner, pioneer, warrior, risk-taker, and daredevil.</b>  Strength and perseverance are central to your success. You must be willing to travel the frontiers of life, away from the beaten path. You possess a great reserve of willpower that must be directed at your goals. You do not give up, but relentlessly pursue your aims. You have great powers of concentration and the ability to visualize your goals, thus making them more attainable.  You stand up for your convictions and hold your ground. All of these abilities enhance your chances of success in life.<br>  <b>   There is a tendency to be self-centered.</b>  You can be domineering and, in the extreme, a bully. You can be highly critical of others, complaining that people lack the industry or determination you possess. But this lack of understanding can alienate friends and family members from you. You must learn to control this tendency to maintain harmony in relationships.  Once you are convinced of the inherent correctness of your ideas, you stubbornly - and sometimes rigidly - defend and propagate them. Avoid obstinacy and antagonism. You must cultivate balance, compassion, and perseverance. You easily assume the role of protector. You spring into action when leadership is needed.<br>             <b>Pride can be your downfall</b>.  You so powerfully identify with your goals and ambitions that you sometimes refuse to see a potential flaw or weakness in your well-laid plans. You possess strength and determination, which, when applied to any endeavor your are committed to, will lead you to great success in life.      ]]></string>
+    <string name="expression_2"><![CDATA[           <b> Sensitive, tactful, diplomatic and cooperative.</b>   You have a great talent for working with others; you possess tact and refinement.         You have a highly developed intuition. Therefore, you act with tact and subtle persuasion. You possess a kind of radar, avoiding the landmines within another personality, yet bringing out their goodwill.         Your abilities are better expressed while working with others than by working alone. In the same way, you perform better in a partnership than in a leadership role.<br><br>  <b> You seek balance and peace in all relationships and situations.</b>   The key to your personality is sensitivity, but there are two sides to the coin:         You have the ability to perceive the thoughts and emotions of others, and can work gently with others for a mutually shared goal.         This makes you a great asset in any group endeavor. However, your sensitivity makes you vulnerable.  You can be thrown off balance by an unkind word, a conflict, or by hostile conditions at work.         You are far more upset by these conditions than people without your sensitivity.          In difficulties, you tend to persevere and steadily erode the resistance.<br><br> <b> You are friendly and open-minded.</b>   You are a great support person, pulling the best out of those around you.        You are indispensable to the leadership of another, providing insight and advice that is essential.         Yet, despite the invaluable service you provide, you often do not get the credit and recognition you deserve, which can be frustrating.  Your natural modesty and the enjoyment you get from being an important asset is usually satisfaction enough for you.         Close relationships are essential to your happiness. When single, you dream of finding your "soul mate."         When married, you are concerned with your spouses needs, emotions, and thoughts.         You are an outstanding marriage partner, giving, thoughtful, and conscious of meeting the needs of your loved one.          You provide great support for your spouses career.<br><br>   <b>You are a passionate lover.</b> Parenthood is not an easy role for you, probably because you lack the will to enforce discipline and need a tranquil, delicate, and harmonious environment.  You are blessed with a high degree of musical talent. You have a good sense of rhythm and harmony.     ]]>
     </string>
-    <string name="life_2">
-
-        People under this number are kind-hearted and open to everything new.  Such people are touchy and feel deeply the hardships of others and are in pain from individual emotions. It often seems that such people are weak and simple, but the core inside number 2 is strong and personality is bright.
-
-They can be perfect orators and politics, as their tolerance and ethics always help them to get along with society.  They are inspiring and expressive artists. You have a talent that you need to develop, it will bring you satisfaction from life and profit for society.
-
-Also such people are very dependent from the partner in the relationships. Deep sensitivity of number two can be a reason of misunderstanding in the relationships, because through the prism of your perception a lot of feelings are exaggerated and your partner may see everything just from the less emotional point of view.  However, your empathy helps you understand and react on the desires of your partner, what makes your union even more durable.
-
-Learn to be independent from the societys opinion. You are already self-sufficient and you only need to believe in your own powers.
-
-Your tactfulness and understanding of what people want in this moment will often help you in life. Not everyone is able to appreciate your efforts, and you may feel underestimated.
-
-In the circle of close people you feel safe and sound, as these people are your "chargers". You sincerely love and support each other. You love to be in the limelight, and people adore your sense of humor. You make an impression of open and friendly person, so most of people like you.  Your preferences in clothing, food and people are sophisticated. You are a nice friend that is always ready to listen to the whines of people around and to provide a handy help if needed.
-
-    </string>
-    <string name="life_3">
-
-Number 3 is the number that guides very artistic type of personality. Their self-expression inspires a lot of people and brings an aesthetic pleasure. Such people find their talent from the early childhood and when they are found they need to be developed, and it will be a start of the success in what you love.
-
-Your ability to express yourself goes far beyond the artistic or talent sphere – you are also an attention catcher. However you need to be careful with such love to public, because chasing the "popularity" can distract you from what you do best. Number 3 favors your success in communicating with people, as you are very energetic and have a cheerful disposition - people like it and love to be in your company.
-
- It may be quite dangerous, because with such frivolous attitude to life you hardly concentrate on the real-life needs. Your interests are very impertinent and you often leave something unfinished. Also you can not handle pain or critique, pretending everything is alright, and conflict does not fade away, it is only one more unfinished discussion. You hide under the mask of positive and easily make fun of yourself, creating a "veil" that hides your true emotions. Otherwise you become irritated and overly criticize people who made a comment about you.
-
-    </string>
-    <string name="life_4">
-      Number 4 type of personality is very organized and grounded. You can stand for your principles and ideas, because if you know something, you know it fully and for sure. Usually you have a strategy of behavior and plan for the future, because you do not like unpleasant surprises.
-
-You clearly understand that hard work and determination can bring to the desiring point. As you dont believe in a happy opportunity, you know that only regular efforts can make you successful, at any area of life.
-
-You are very practical and appreciate social norms, as these rules are clear and precise so you can build up a strategy on how to move forward. You are not a team player and feel better in a small circle of the closest people.
-
-However, your love to rules and schedule makes you intolerant boss or co-worker.  You are very stable in your ideas, and some people may consider you as narrow-minded one.  You are a nice lover, as you care for the comfort of people you love. Deep inside you are quite emotional, and your soul construction is not that strong, so any stressful situation is a great damage for your peace of mind.
-
-Financial aspect of life is very important for you, as most things that you like can be bought by money. But youre not a type of person that spends money, you save them up either for something grand or for a rainy day. You have a touch of arrogance in your confidence, but it is always useful to develop even if you believe yourself to be a professional.
-
-You can be a good boss and have a nice business, unless you are overly strict and demanding to the employees. Not everyone has the same point of view, as you have, and yours one is not the only right for sure.
-    </string>
-    <string name="life_5">
-
-People of number 5 can be great journalists. They are inspiring, justice-seeking and have a deep love for freedom. People like to be in your company as you can simplify the problem or help the person concentrate on the needed goal. You are the person that gives another one a little impulse to act, inspiring and making the person believe in yourself.
-
-Though you willingly help others, you can not focus your efforts and knowledge on the profitable and needed things for you. You always resist any type of pressure and want to be free, but it can not free you from life realities and responsibilities.  Taking into account your indulgence you need to keep diet and a healthy lifestyle.  You need to have a strong desire to be better in the way you see it.
-
- Sometimes you create an impression of a superficial person. It is a bad feature for building up healthy and durable relationships, as they implicate work and commitment from both sides. If you truly fall in love, you can change and adjust yourself to the partner, though it is a challenge for you.
-
-You are active and energetic, you like to spend time with joy and pleasure. But you have enough skills and talents to bear the real life problems.  You often need more time than others in order to make a decision, but if you initially feel that it is right and it is yours dont hesitate, or you can lose it all.
-
-Generally, you are a pleasant person that lacks some organization and focusing on really important things. Develop your talents and strive for more.
-    </string>
-    <string name="life_6">
-    You are a kind person ready to share the experience and give a help to people in need. You can be a successful social activist, or volunteer as you sincerely care about the problems in our world.
-
-    Taking into account your natural curiosity and desire to help you often disturb the private life of people. Give help when the person asks for it, but not when you want to give an advice. You have a strong inner core that helps you through life and attracts people.
-
-    You need to think about the love choices in life. As you are very sensitive, partners with weak sides or broken heart attract you simply because you can help them restore, but it is not the love choice. In some cases you may subconsciously repress your partner in order to be in continuous circle of giving your help. Try to find life for yourself, find an unusual hobby or challenge yourself with something interesting.
-
-    You often help people, but you rarely feel the feedback from them.Try to be self-sufficient. People instinctively want to talk with you, sharing their pains and problems and sometimes it pushes you into the depression. Your family is happy to have you, as you know and respect the needs of every member. Your children have a nice parent. You are a good partner for marriage too, as you are ready to share joys and sorrows. You are loyal to your principles and ideas about marriage and relationships.
-
-    You may have some problems with body fit now or in the future. Staying in shape for you is harder than for other people. So, make sport a habit and keep yourself in comfortable and healthy condition.
-    </string>
-    <string name="life_7">
-
-Number 7 is oriented inward. This person values morals more than looks. In partnership it is very important for number 7 to have a similar set of priorities and common view on life. You like truth-seeking and admire searching for facts and have bright mind and intellectual potential.
-
-Sometimes you are estranged from the world, because your normal work result requires it, and you work better when you have all the time on your own and no distractions.  But, as soon as the work is done, you go hard in other type of work - hobby. Your type of work is special and you prefer special free time spending. In your case it will be long road, but it is worth of.
-
- You feel uncomfortable when unknown people stay to close to you or start intimate topics. You have a rich world inside, so dont hide in the shadows of your work and hobby.
-
-Lack of communication with people creates a vacuum in your heart, and you feel alone and unneeded. If you reach the peak of isolation, and your friends are absent or consist of unknown people from the internet, you can become misanthrope and sarcastic. It can make people around suspicious and negative gossiping about your nature may appear.
-
-You strive for independency, and it is understandable, but you often confuse independence with loneliness. You are very interesting person and a lot of people may find your experience and way of thinking interesting. You need to develop the talent you have, because it will help you in your professional activity.Be careful with arrogance and selfishness, as you are especially exposed to these feelings.
-
-You need to cheer up your life.
-    </string>
-    <string name="life_8">
-       Number 8 person is very pragmatic. From the early childhood these people learn the value of money, and it becomes a goal of their life: to obtain.People with such opportunities need not to forget about the world around, in order not to become greedy.
-
-Number 8 usually wants it all, and while rushing for it, they can loose what they already have. You need to separate work from home or family life, and seek for a balance.
-
-Though the financial side of your life is prosperous, your family life may bring you some unpleasant surprises. While large sums of money make your pocket warm, your partners can have interest in something more than your personality. So think twice before marrying someone. We all have complicated situations in life, but all of them are changed on something good.
-
-You are quite successful in career. People are easily impressed by you, as you obtain a gift of persuasion and can explain something complicated in few words.
-
- You can overindulge yourself. You strive for power, and often neglect people right beside you, though the opinion of society is essential for you. So be kind and sincere to people around.
-
-Number 8 hides a lot of negative characteristics of the person, because under the influence of desires and power striving such people often become ruling, autocrats, obstinate and rude. Remember that active communication with people is the part of your success.
-
-    </string>
-    <string name="life_9">
-
-
-You are very inspirational and kind-hearted, but you have your own strong principles and ideas. You are a type of person that can be so much impressed that quits work and goes volunteering. Such people are able to see deeper, and problems of ecology, society structure and politics really matter for them as they feel themselves a part of something bigger.
-
-You appreciate aesthetics around you and try to make surroundings more appealing. Your inclinations to order and beauty can be useful in combination with self-confidence in professions of power: managers, organizers, attorneys, social workers and so on.
-
-You are a perfectionist to yourself and to the world around. Naturally, you are non-conflicting person, but if someone pushes on the painful topic, you can become furious. You can not stand still, youre in need of action. You willingly develop your talents and share experience with others. Dont be afraid about your mistakes, think that mistake is a part of success, and learn from your mistakes, but dont blame yourself.
-
-In the relationships you are very dependent, you need to give everything you have, all your efforts to the partner. But not every person estimates such behavior right, some may use you, some may ignore your efforts. However, number 9 has a great possibility to be really wealthy. Usually sudden finances fall on such people, and this money should be invested in something that youre dreaming about, for your future fulfillment or in something that inspires you.
-
-If your work brings you pleasure, you are the most inspirational worker and you prove yourself to be a professional. You are concerned about the life of others and it influences your social position. By helping others you boost your self-esteem and feel in the right place.
-    </string>
-    <string name="life_11">
-      Master number 11 has a great potential to be a source of energy and motivation to people. In the childhood this type of personality may seem an introvert, but such children just have slightly another way of thinking. Number 11 as every master number implicates gifts and talents. People love to be in your company as there is always something interesting in your manner of speaking or thinking. You dont try to be accepted by society, the highest matter for you is to stay true to yourself, it makes you different in the positive sense of this word.
-
-All the features common for number 2 are doubled and may suit number 11. You understand everything from the first second, and witty conversations for you are natural. You are easy-going and open. Though your intellectual level is quite high, you dont let yourself to be arrogant.
-
-You have a creative potential: you initiate projects, undertakings, work on development and re-development of the things in your professional sphere.However, you are very self-critical and always understate you possibilities and talents.
-
-Your Life Path is interesting, but it is not easy. Usually, your peak of life energy and prosperity comes after your 30s birthday. After this date you will be able to understand your real aim in life and reevaluate your principles.
-
-Despite your bright personality and intellect, you are very demanding to yourself. In some cases it is positive feature. But if it makes you depressed and prevents your further development, you need to believe in yourself and make an emphasis on your better sides. Your gained achievements are easily forgotten when you see at least one disadvantage. Nobody is perfect. Only self-confidence and steps focused on the success can make your soul and body prosperous.
-
- You always feel the mood of people around and easily adjust yourself. That way you can be the peace-maker. As you are sensitive (though you dont display it), you experienced enough feelings and now understand the emotional needs of people around you. People often feel better or calm down after a small talk with you.
-    </string>
-    <string name="life_22">
-        Master number 22 is considered to be very good sign and is a symbol of success. The destiny of these people is complicated, but saturated and interesting. Your downs will be painful, but the ups will be amazing. However, you need to be careful in the choice of friends and always count on yourself in times of trouble.
-
-Your way of thinking is full of creativity and demands expression. Your ideas are interesting and you can make a living from them.
-
-Number 22 is like an oxymoron: you tend to illogical decisions and are often passively follow the flow of your life, but you always stand strong on your two and have a pragmatic point of view. When you have the idea its something in complex – you know the details and have a ready plan of implementation in few variants. And it is amazing, as with such skill the problem solving is just easy for you.
-
-You are loving and caring person, but usually you fall in love with an image or a peculiarity of the partner rather than with all features combined in one. It may bring you problems and frequent disappointments. In love youre a bit infantile, redirecting on or blaming your partner in your problems. Your love life wont be easy, and will require instant work on yourself and consensuses.
-
-You perceive all information fully, as your mind has such a versatile state. You think globally and take consequences into account. Thats why you are suitable for very responsible professions: militarist, diplomatist, politician, international translator, lawyer or judge. Despite all these strict professions you are talented and youre able to make the dullest work in a bright self-expression. Often you achieve such result due to professionalism and creativity combined together.
-
-As youre talented and need powerful self-expression it is often displayed in high level of your ambitiousness. You set a point which you want to reach and it motivates you. Thanks to your enthusiasm and confidence, people perceive you as an authority. Because you are used to work hard and have a particular amount of experience you often think that others work not as hard and you tend to underestimate people around. You express yourself mostly in your hobby or profession, but you dont mind the looks. Maybe it is time to change your image, usually inner perception of self also changes.
-    </string>
-    <string name="expression_1"><![CDATA[
-         <b>Highly focused, an originator and self-starter.</b>
-You are a natural leader, independent and individualistic. You are extremely ambitious, original, and courageous.
-You employ new and unproven methods. You are an explorer and an innovator. Openness to too many peripheral influences limits and frustrates you.
-You possess executive abilities and are most successful at owning or independently managing a business.
- You need the freedom to make your own decisions, based on your own ideas.
-
-<b> The number 1 symbolizes the front-runner, pioneer, warrior, risk-taker, and daredevil.</b>
-
-Strength and perseverance are central to your success. You must be willing to travel the frontiers of life, away from the beaten path.
-You possess a great reserve of willpower that must be directed at your goals. You do not give up, but relentlessly pursue your aims.
-You have great powers of concentration and the ability to visualize your goals, thus making them more attainable.
- You stand up for your convictions and hold your ground. All of these abilities enhance your chances of success in life.<br>
-
-<b>   There is a tendency to be self-centered.</b>
-
-You can be domineering and, in the extreme, a bully. You can be highly critical of others, complaining that people lack the industry or determination you possess.
-But this lack of understanding can alienate friends and family members from you. You must learn to control this tendency to maintain harmony in relationships.
-
-Once you are convinced of the inherent correctness of your ideas, you stubbornly - and sometimes rigidly - defend and propagate them. Avoid obstinacy and antagonism.
-You must cultivate balance, compassion, and perseverance. You easily assume the role of protector. You spring into action when leadership is needed.<br>
-
-           <b>Pride can be your downfall</b>.
-
-You so powerfully identify with your goals and ambitions that you sometimes refuse to see a potential flaw or weakness in your well-laid plans.
-You possess strength and determination, which, when applied to any endeavor your are committed to, will lead you to great success in life.
-
-    ]]></string>
-    <string name="expression_2"><![CDATA[
-
-         <b> Sensitive, tactful, diplomatic and cooperative.</b>
-
-
-You have a great talent for working with others; you possess tact and refinement.
-        You have a highly developed intuition. Therefore, you act with tact and subtle persuasion.
-You possess a kind of radar, avoiding the landmines within another personality, yet bringing out their goodwill.
-        Your abilities are better expressed while working with others than by working alone. In the same way, you perform better in a partnership than in a leadership role.<br><br>
-
-<b> You seek balance and peace in all relationships and situations.</b>
-
-
-The key to your personality is sensitivity, but there are two sides to the coin:
-        You have the ability to perceive the thoughts and emotions of others, and can work gently with others for a mutually shared goal.
-        This makes you a great asset in any group endeavor. However, your sensitivity makes you vulnerable.
-
-You can be thrown off balance by an unkind word, a conflict, or by hostile conditions at work.
-        You are far more upset by these conditions than people without your sensitivity.
-
-        In difficulties, you tend to persevere and steadily erode the resistance.<br><br>
-<b> You are friendly and open-minded.</b>
-
-
-You are a great support person, pulling the best out of those around you.
-       You are indispensable to the leadership of another, providing insight and advice that is essential.
-        Yet, despite the invaluable service you provide, you often do not get the credit and recognition you deserve, which can be frustrating.
-
-Your natural modesty and the enjoyment you get from being an important asset is usually satisfaction enough for you.
-        Close relationships are essential to your happiness. When single, you dream of finding your "soul mate."
-        When married, you are concerned with your spouses needs, emotions, and thoughts.
-        You are an outstanding marriage partner, giving, thoughtful, and conscious of meeting the needs of your loved one.
-         You provide great support for your spouses career.<br><br>
-
-
-<b>You are a passionate lover.</b> Parenthood is not an easy role for you, probably because you lack the will to enforce discipline and need a tranquil, delicate, and harmonious environment.
-
-You are blessed with a high degree of musical talent. You have a good sense of rhythm and harmony.
-    ]]></string>
     <string name="expression_3"><![CDATA[
         <b>the creative child; imaginative, expressive communicators and artists.</b>
 
@@ -285,49 +83,7 @@ You have a keen eye for detail. You have great stamina and can work conscientiou
 
 
     ]]></string>
-    <string name="expression_5"><![CDATA[
-        <b>versatile, flexible, adaptable, curious, social, sensual, quick-thinking, witty.</b>
-
-
-By using freedom properly, you are able to explore and develop all of your varied talents.
-You will meet many types of people and travel great distances.
-        Freedom is the atmosphere necessary for you to bring forth your many talents.
-        You are capable of doing almost anything, and probably quite well.
-
-You are unusually adaptable. In fact, change is a blessing for you.
-        In the same way, you need challenge and variety.
-        You hate the routine of life; being stuck is a catastrophe for you. You become miserable when you are held back or held down.
-        From childhood, you dream of seeing foreign lands, experiencing the sensual and the exotic. You want to try everything at least once in life.
-        All of life is a playground for your senses. But this can get you into trouble.<br><br><br>
-
-You may fail to respect your natural limits, either biologically or socially.
-Any sort of boundary is anathema to you, which can blind you to your natural limits, and may cause you to overindulge your desire for food, sweets, alcohol, sex, and drugs.
-
-You are gifted in your ability to communicate.
-You are a bit of a gambler, and often play for very high stakes.
-All of this combines to give you a youthful enthusiasm, which others find infectious and attractive.
-        You like to work with others, but need to perform your task un-encumbered by the restraints of others.
-        You must stay grounded and focused if you want to be successful.
-
-You fall in and out of love frequently, especially early in life. You are naturally sensual and commonly have a strong sex drive.
-        These characteristics usually make for a lively and exciting love life, but you must guard against shallow feelings and relationships.
-
-Your challenge is to develop mature and lasting relationships.
-Self-discipline and setting healthy limits is the key to your success in virtually every area of your life.<br><br>
-        Ironically, you will find that as you learn to set appropriate limits on yourself, you will develop more self- mastery and realize even greater freedom.
-
-This is especially true when it comes to finishing what you start.
-        Your tendency is to give up once you have got a project or job under control; you grow bored quickly.
-        You start to fantasize about a new challenge, or the rewards of your great accomplishment, long before the work is finished.
-
-The 5 Expression desires the whole world.
-You are aware that you have many talents that can bring much success. But that success depends on your willingness to choose certain areas to concentrate on, and to bring them to perfection.
-
-
-
-
-
-    ]]></string>
+    <string name="expression_5"><![CDATA[         <b>versatile, flexible, adaptable, curious, social, sensual, quick-thinking, witty.</b>   By using freedom properly, you are able to explore and develop all of your varied talents. You will meet many types of people and travel great distances.         Freedom is the atmosphere necessary for you to bring forth your many talents.         You are capable of doing almost anything, and probably quite well.  You are unusually adaptable. In fact, change is a blessing for you.         In the same way, you need challenge and variety.         You hate the routine of life; being stuck is a catastrophe for you. You become miserable when you are held back or held down.         From childhood, you dream of seeing foreign lands, experiencing the sensual and the exotic. You want to try everything at least once in life.         All of life is a playground for your senses. But this can get you into trouble.<br><br><br>  You may fail to respect your natural limits, either biologically or socially. Any sort of boundary is anathema to you, which can blind you to your natural limits, and may cause you to overindulge your desire for food, sweets, alcohol, sex, and drugs.  You are gifted in your ability to communicate. You are a bit of a gambler, and often play for very high stakes. All of this combines to give you a youthful enthusiasm, which others find infectious and attractive.         You like to work with others, but need to perform your task un-encumbered by the restraints of others.         You must stay grounded and focused if you want to be successful.  You fall in and out of love frequently, especially early in life. You are naturally sensual and commonly have a strong sex drive.         These characteristics usually make for a lively and exciting love life, but you must guard against shallow feelings and relationships.  Your challenge is to develop mature and lasting relationships. Self-discipline and setting healthy limits is the key to your success in virtually every area of your life.<br><br>         Ironically, you will find that as you learn to set appropriate limits on yourself, you will develop more self- mastery and realize even greater freedom.  This is especially true when it comes to finishing what you start.         Your tendency is to give up once you have got a project or job under control; you grow bored quickly.         You start to fantasize about a new challenge, or the rewards of your great accomplishment, long before the work is finished.  The 5 Expression desires the whole world. You are aware that you have many talents that can bring much success. But that success depends on your willingness to choose certain areas to concentrate on, and to bring them to perfection.          ]]></string>
     <string name="expression_6"><![CDATA[
 
         <b>loyal, maternal, idealistic healers or teachers.</b>
@@ -536,26 +292,7 @@ Your efforts are directed toward great accomplishments and long-standing progres
     ]]></string>
 
 
-    <string name="soul_1"><![CDATA[
-        You are obsessed with your ideas and it’s difficult to change your mind. Once you have set your mind on something.
-         It’s almost impossible to convince you that perhaps you are wrong. That is to say, you are unlikely to change their opinions or behavior towards certain things. As previously mentioned, those who are soul urge number 1 have a clear mind and as a result you can gather and organize their thoughts quickly. People with this number have great control over their lives and understand why you view things in a certain light. Such control includes being drug free, clear, precise, and head strong. While you may be independent, you have a powerful personality. As a result, you value attention from others and demand respect.
-        you are also very protective of others and can took good care of their loved ones.<br>
-
-
-<b>TRAITS</b><br>
-you are powerful and are fortunate in getting help from those in higher positions.
-You love being free and reject ideas such as abstinence. In addition, you are quick to try new things and adapt well to the modern world and new technologies. Furthermore, you put unique spins on certain ideas due to their natural creativity. It’s rare to ever find someone of this number to be in a bad mood, you are usually optimistic and have a positive outlook on life. you are also ambitious and can perform tough manual labor.
-
-you also have a strong spiritual side, and even though you are very independent, you do well when it comes to teamwork. you usually don’t feel jealously, extreme anger or disappointment. you’re great at making correct split-second decisions because of their constantly active mind. As a result, you quickly climb up to higher positions in their work. On the other hand, if you can’t overcome certain tasks you can become frustrated and begin to feel a bit depressed.
-
-<br><b>ROMANCE</b><br>
-It’s important that you find a partner who supports your goals and ambitions. In addition, your partner must understand that you will be busy much of the time because of your determination to work hard. As a result, it can be hard to find someone who can commit to the leadership qualities that you have. On the other hand, you should remind your partner that you haven’t abandoned them, and also you have to make sure to find time for them too. Furthermore, let them know how much you appreciate them and that your hard work couldn’t be done without their love, patience and support you receive from them. One of the biggest drives you have is to work hard to build a better future not just for yourself but your relationship as well.
-
-<b><br>THE NEGATIVE SIDE</b><br>
-While you have many great qualities, you must be careful not to lose sight of the important things in life. Ones are likely to give in to living a luxurious lifestyle and may impulsively spend your money on things you don’t need simply to impress others. you also love spending your money on your loved ones but do it in a reckless fashion. While it’s good that you are considerate of loved ones and friends you must take care not to live beyond your means.
-
-In addition,you may feel as you are obligated to fulfill a certain role. As a result, you can go through lots of mood swings if you aren’t able to fulfill those roles. Consequently, you go through a lot of sacrifice to meet the goals you expect. It’s also difficult for you to take any type of criticism but you are quick to criticize others. While you may have great insight, you can also be a bit arrogant. In addition, you don’t like messy work environments, lazy people, empty promises, and procrastinating. As a result, you can be impatient and often demand fast solutions to certain problems. Be careful of these things and follow the tips below to avoid falling into this negativity that may cause you to become angry or depressed.
-    ]]></string>
+    <string name="soul_1"><![CDATA[         You are obsessed with your ideas and it’s difficult to change your mind. Once you have set your mind on something.          It’s almost impossible to convince you that perhaps you are wrong. That is to say, you are unlikely to change their opinions or behavior towards certain things. As previously mentioned, those who are soul urge number 1 have a clear mind and as a result you can gather and organize their thoughts quickly. People with this number have great control over their lives and understand why you view things in a certain light. Such control includes being drug free, clear, precise, and head strong. While you may be independent, you have a powerful personality. As a result, you value attention from others and demand respect.         you are also very protective of others and can took good care of their loved ones.<br>   <b>TRAITS</b><br> you are powerful and are fortunate in getting help from those in higher positions. You love being free and reject ideas such as abstinence. In addition, you are quick to try new things and adapt well to the modern world and new technologies. Furthermore, you put unique spins on certain ideas due to their natural creativity. It’s rare to ever find someone of this number to be in a bad mood, you are usually optimistic and have a positive outlook on life. you are also ambitious and can perform tough manual labor.  you also have a strong spiritual side, and even though you are very independent, you do well when it comes to teamwork. you usually don’t feel jealously, extreme anger or disappointment. you’re great at making correct split-second decisions because of their constantly active mind. As a result, you quickly climb up to higher positions in their work. On the other hand, if you can’t overcome certain tasks you can become frustrated and begin to feel a bit depressed.  <br><b>ROMANCE</b><br> It’s important that you find a partner who supports your goals and ambitions. In addition, your partner must understand that you will be busy much of the time because of your determination to work hard. As a result, it can be hard to find someone who can commit to the leadership qualities that you have. On the other hand, you should remind your partner that you haven’t abandoned them, and also you have to make sure to find time for them too. Furthermore, let them know how much you appreciate them and that your hard work couldn’t be done without their love, patience and support you receive from them. One of the biggest drives you have is to work hard to build a better future not just for yourself but your relationship as well.  <b><br>THE NEGATIVE SIDE</b><br> While you have many great qualities, you must be careful not to lose sight of the important things in life. Ones are likely to give in to living a luxurious lifestyle and may impulsively spend your money on things you don’t need simply to impress others. you also love spending your money on your loved ones but do it in a reckless fashion. While it’s good that you are considerate of loved ones and friends you must take care not to live beyond your means.  In addition,you may feel as you are obligated to fulfill a certain role. As a result, you can go through lots of mood swings if you aren’t able to fulfill those roles. Consequently, you go through a lot of sacrifice to meet the goals you expect. It’s also difficult for you to take any type of criticism but you are quick to criticize others. While you may have great insight, you can also be a bit arrogant. In addition, you don’t like messy work environments, lazy people, empty promises, and procrastinating. As a result, you can be impatient and often demand fast solutions to certain problems. Be careful of these things and follow the tips below to avoid falling into this negativity that may cause you to become angry or depressed.     ]]></string>
     <string name="soul_2"><![CDATA[
         It is said that the Moon controls Soul Urge Number 2 and that is what makes this number so caring, loving, and artistic. Those who are of this number are usually very calm, peaceful, and well mannered. In addition, you have a large imagination which fuels your creativity; however, you have trouble implementing your creativeness. It’s better if you test out your ideas to become confident enough to bring them to light. The frequencies that make up soul urge number 2 are: companionship, socializing, transparency, balance, and teamwork. Cooperation is the best provider of positive energy for those of this number.
 
@@ -771,7 +508,6 @@ While you have many positive qualities, such as being able to see the big pictur
 <br><b>BEST ADVICE</b><br>
 It’s important that you remain humble at all times. Even if you have reason to boast and be proud of your accomplishments you shouldn’t become arrogant. In addition, don’t let others get under your skin. Simply let them talk and prove them wrong through your actions.
     ]]></string>
-
 
 
 </resources>
