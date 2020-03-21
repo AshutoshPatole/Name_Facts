@@ -13,4 +13,514 @@
     <string name="Support">Dukung Kami</string>
     <string name="you_are">kamu adalah</string>
     <string name="full_name">Masukkan nama lengkapmu</string>
+    <string name="about">tentang</string>
+
+
+
+    <string name="expression_1">
+        <![CDATA[<b> Sangat fokus, pencetus dan pemulai diri. </b> Anda adalah pemimpin alami, mandiri dan individualistis. Anda sangat ambisius, orisinal, dan berani. Anda menggunakan metode baru dan belum terbukti. Anda adalah seorang penjelajah dan inovator. Keterbukaan terhadap terlalu banyak pengaruh periferal membatasi dan membuat Anda frustrasi. Anda memiliki kemampuan eksekutif dan paling sukses dalam memiliki atau mengelola bisnis secara mandiri. Anda membutuhkan kebebasan untuk membuat keputusan sendiri, berdasarkan ide-ide Anda sendiri. <b> Angka 1 melambangkan pelari terdepan, perintis, pejuang, pengambil risiko, dan pemberani. </b> Kekuatan dan ketekunan adalah pusat kesuksesan Anda. Anda harus rela menempuh batas-batas kehidupan, jauh dari jalan yang terpukul. Anda memiliki cadangan tekad yang kuat yang harus diarahkan pada tujuan Anda. Anda tidak menyerah, tetapi tanpa henti mengejar tujuan Anda. Anda memiliki kekuatan konsentrasi yang besar dan kemampuan untuk memvisualisasikan tujuan Anda, sehingga membuatnya lebih dapat dicapai. Anda membela keyakinan Anda dan memegang teguh pendirian Anda. Semua kemampuan ini meningkatkan peluang Anda untuk sukses dalam hidup. <br> <b> Ada kecenderungan mementingkan diri sendiri. </b> Anda bisa mendominasi dan, pada ekstremnya, pengganggu. Anda bisa sangat kritis terhadap orang lain, mengeluh bahwa orang tidak memiliki industri atau tekad yang Anda miliki. Tetapi kurangnya pemahaman ini dapat mengasingkan teman dan anggota keluarga dari Anda. Anda harus belajar mengendalikan kecenderungan ini untuk menjaga keharmonisan dalam hubungan. Begitu Anda yakin akan kebenaran ide-ide Anda yang melekat, Anda dengan keras kepala - dan terkadang dengan kaku - mempertahankan dan menyebarkannya. Hindari sikap keras kepala dan antagonisme. Anda harus memupuk keseimbangan, kasih sayang, dan ketekunan. Anda dengan mudah berperan sebagai pelindung. Anda bertindak saat kepemimpinan dibutuhkan. <br> <b> Kebanggaan bisa menjadi kejatuhan Anda </b>. Anda begitu kuat mengidentifikasi diri dengan tujuan dan ambisi Anda sehingga kadang-kadang Anda menolak untuk melihat cacat potensial atau kelemahan dalam rencana yang telah Anda tentukan dengan baik. Anda memiliki kekuatan dan tekad, yang, ketika diterapkan pada usaha apa pun yang Anda janjikan, akan menuntun Anda menuju kesuksesan besar dalam hidup. ]]>
+    </string>
+    <string name="expression_2">
+<![CDATA[<b> Sensitif, bijaksana, diplomatis, dan kooperatif. </b> Anda memiliki bakat besar untuk bekerja dengan orang lain; Anda memiliki kebijaksanaan dan kehalusan. Anda memiliki intuisi yang sangat maju. Karena itu, Anda bertindak dengan kebijaksanaan dan bujukan yang halus. Anda memiliki semacam radar, menghindari ranjau darat dalam kepribadian lain, namun mengeluarkan niat baik mereka. Kemampuan Anda diekspresikan lebih baik saat bekerja dengan orang lain daripada dengan bekerja sendiri. Dengan cara yang sama, Anda tampil lebih baik dalam kemitraan daripada dalam peran kepemimpinan. <br> <br> <b> Anda mencari keseimbangan dan kedamaian dalam semua hubungan dan situasi. </b> Kunci kepribadian Anda adalah kepekaan, tetapi ada dua sisi mata uang: Anda memiliki kemampuan untuk memahami pikiran dan emosi orang lain, dan dapat bekerja dengan lembut dengan orang lain untuk tujuan bersama. Ini membuat Anda aset besar dalam usaha kelompok apa pun. Namun, sensitivitas Anda membuat Anda rentan. Anda dapat dilempar tidak seimbang oleh kata-kata yang tidak baik, konflik, atau oleh kondisi yang bermusuhan di tempat kerja. Anda jauh lebih kesal dengan kondisi ini daripada orang tanpa sensitivitas Anda. Dalam kesulitan, Anda cenderung bertahan dan terus mengikis perlawanan. <br> <br> <b> Anda ramah dan berpikiran terbuka. </b> Anda adalah orang yang mendukung, menarik yang terbaik dari orang-orang di sekitar Anda. Anda sangat diperlukan untuk kepemimpinan orang lain, memberikan wawasan dan saran yang sangat penting. Namun, terlepas dari layanan berharga yang Anda berikan, Anda sering tidak mendapatkan kredit dan pengakuan yang layak Anda dapatkan, yang bisa membuat Anda frustrasi. Kesederhanaan alami Anda dan kenikmatan yang Anda dapatkan dari menjadi aset penting biasanya cukup memuaskan bagi Anda. Hubungan dekat sangat penting untuk kebahagiaan Anda. Saat lajang, Anda bermimpi menemukan "belahan jiwa" Anda. Saat menikah, Anda khawatir dengan kebutuhan, emosi, dan pikiran pasangan Anda. Anda adalah pasangan menikah yang luar biasa, memberi, bijaksana, dan sadar memenuhi kebutuhan orang yang Anda cintai. Anda memberikan dukungan besar untuk karier pasangan Anda. <br> <br> <b> Anda adalah kekasih yang bergairah. </b> Menjadi orangtua bukanlah peran yang mudah bagi Anda, mungkin karena Anda kurang memiliki keinginan untuk menegakkan disiplin dan membutuhkan ketenangan. , lingkungan halus, dan harmonis. Anda diberkati dengan bakat musikal tingkat tinggi. Anda memiliki ritme dan harmoni yang baik. ]]>
+
+    </string>
+    <string name="expression_3">
+        <![CDATA[
+        <b> anak kreatif; komunikator dan artis yang imajinatif, ekspresif. </b>
+
+
+
+Anda optimis, inspiratif, mudah bergaul, dan ekspresif.
+        Orang-orang melihat Anda sebagai ceria, positif dan menawan; kepribadian Anda memiliki mental dan semangat tertentu yang begitu kuat memengaruhi orang lain sehingga Anda dapat menginspirasi orang tanpa usaha.
+        Keterampilan verbal Anda mungkin akan membawa Anda ke bidang penulisan, komedi, teater, dan musik.
+    Milik Anda adalah jumlah ekspresi diri - kaya akan imajinasi dan semangat.
+Tetapi Anda harus berhati-hati untuk tidak menyebarkan bakat Anda. Kutukan Anda adalah bahwa Anda sering kurang disiplin dan teratur dalam hidup Anda.
+        Hindari menjadi pemboros "bahagia-pergi-beruntung", lepas dari tanggung jawab dan komitmen. <br> <br> <br>
+
+Anda harus belajar berkonsentrasi dan fokus. Ini adalah kunci kesuksesan Anda.
+        Anda memiliki potensi besar dalam bidang seni dan bidang yang membutuhkan solusi kreatif untuk masalah.
+        Anda dapat melakukan lompatan imajinasi, memberikan ide-ide yang tidak konvensional seolah-olah mereka tiba-tiba turun dari atas.
+
+
+Jika Anda kurang percaya diri untuk mengejar ide-ide Anda, Anda dapat mengalihkan kemampuan Anda menjadi hamburan pengejaran sepele.
+        Untuk mengatasi masalah ini, Anda harus membuat pilihan. Anda harus membatasi bidang visi Anda dan jumlah kegiatan yang Anda lakukan, dan menggabungkan energi Anda menjadi satu dorongan.
+
+Fokuskan hidup Anda; pilih area yang paling Anda sukai, dan lakukan. Di sana, Anda akan menemukan kesuksesan. Dan banyak kebahagiaan. <br> <br> <br>
+<b> Cinta, romansa, dan uang berada dalam jangkauan Anda. </b>
+
+Anda dibantu oleh teman dan pengagum Anda.
+        Seringkali orang muncul entah dari mana untuk membantu Anda dalam situasi-situasi penting.
+        Anda harus belajar menerima keterlibatan orang lain dalam hidup Anda.
+        Anda bukan penyendiri, Anda juga tidak mandiri.
+
+Sisi buruknya, Anda bisa menjadi dangkal, murung, dan tidak toleran.
+        Anda emosional dan sensitif, kadang-kadang menganggap kritik di mana tidak ada yang dimaksudkan. Anda juga bisa cemburu dan bergosip. <br> <br> <br>
+<b> Berhati-hatilah untuk menjadi sinis dan sarkastik. </b>
+
+
+Ciri-ciri ini dapat menekan kreativitas alami Anda. Berorientasi pada tujuan.
+        Ini adalah pendekatan praktis, langkah demi langkah untuk ambisi Anda yang lebih besar.
+    ]]>
+    </string>
+    <string name="expression_4">
+        <![CDATA[
+<b> disiplin, kuat, stabil, pragmatis, sederhana, andal, dapat diandalkan, pekerja keras, hemat. </b> <br>
+Anda adalah fondasi masyarakat, fondasi perusahaan apa pun.
+        Pendekatan Anda terhadap kehidupan dan masalah adalah metodis dan sistematis.
+        Anda adalah pembangun dan pelaku. Anda mengubah mimpi menjadi kenyataan. Anda memiliki rasa struktur yang sangat maju.
+Anda bukan tipe untuk memulai perjalanan apa pun tanpa peta. <br>
+        Anda menjalankan kewajiban Anda dan kewajiban keluarga Anda dengan cukup serius. Hasilnya, Anda dapat diandalkan dan bertanggung jawab.
+        Anda menikmati melihat proyek dari awal hingga selesai, tetapi bisa menjadi terlalu sempit. Anda menempatkan hidung Anda ke batu asahan dan memiliki kecenderungan untuk menjadi pecandu kerja.
+
+Kekhawatiran akan keterbatasan sumber daya Anda menyebabkan Anda berhati-hati dan berhati-hati, menjauhkan Anda dari kemungkinan jalan pintas dan solusi kreatif yang disediakan oleh lebih banyak orang yang berani di sekitar Anda.
+
+<b> Dalam hubungan, Anda cenderung agak bermoral. </b>
+Anda sangat jujur ​​dan tulus. Anda memiliki integritas dan dapat dipercaya, tetapi juga bisa menjadi kaku dan keras kepala.
+        Jangan biarkan suka dan tidak suka yang kuat Anda mengesampingkan akal sehat dan kasih sayang Anda. Lebih memahami kekurangan orang lain.
+
+Karena Anda cenderung fokus pada detail, Anda bisa jatuh ke dalam kebiasaan dan menjadi sedikit membosankan dan terlalu serius.
+        Seringkali, Anda perlu meringankan dan bersenang-senang. Anda sangat sadar akan keseimbangan antara pendapatan dan pengeluaran.
+        Anda dapat membatasi pengeluaran Anda; menabung adalah penting bagi Anda.
+
+Anda adalah orang tua yang baik, dan senang terlibat dengan anak-anak. <br>
+Entah bagaimana, Anda menghubungkan sedikit lebih banyak dari yang lain dengan kepolosan anak-anak, mungkin melihat diri Anda dalam diri mereka. Anda juga idealis dan menghargai kesederhanaan anak-anak.
+
+ Anda dapat tertarik pada seni dan musik, tetapi kemungkinan akan membawa kecintaan Anda pada struktur dan ketertiban pada bidang artistik apa pun.
+        Musik dan opera klasik sangat menarik dan menginspirasi Anda.
+
+Anda memiliki mata yang tajam untuk detail. Anda memiliki stamina yang hebat dan dapat bekerja dengan hati-hati dan gigih untuk mencapai tujuan Anda.
+
+
+    ]]>
+    </string>
+    <string name="expression_5">
+        <![CDATA[<b> serbaguna, fleksibel, mudah beradaptasi, ingin tahu, sosial, sensual, cepat berpikir, jenaka. </b> Dengan menggunakan kebebasan dengan benar, Anda dapat menjelajahi dan mengembangkan semua bakat Anda yang bervariasi. Anda akan bertemu banyak tipe orang dan melakukan perjalanan jauh. Kebebasan adalah suasana yang diperlukan bagi Anda untuk menghasilkan banyak bakat Anda. Anda mampu melakukan hampir semua hal, dan mungkin cukup baik. Anda mudah beradaptasi. Sebenarnya, perubahan adalah berkah bagi Anda. Dengan cara yang sama, Anda membutuhkan tantangan dan variasi. Anda membenci rutinitas kehidupan; terjebak adalah bencana bagi Anda. Anda menjadi sengsara ketika Anda ditahan atau ditahan. Sejak kecil, Anda bermimpi melihat tanah asing, mengalami sensual dan eksotis. Anda ingin mencoba semuanya setidaknya sekali dalam hidup. Semua kehidupan adalah taman bermain untuk indera Anda. Tetapi ini dapat membuat Anda mendapat masalah. <br> <br> <br> Anda mungkin gagal menghargai batasan alami Anda, baik secara biologis maupun sosial. Batasan apa pun adalah laknat bagi Anda, yang dapat membutakan Anda terhadap batas-batas alami Anda, dan dapat menyebabkan Anda terlalu memanjakan keinginan Anda akan makanan, permen, alkohol, seks, dan obat-obatan. Anda berbakat dalam kemampuan Anda untuk berkomunikasi. Anda sedikit penjudi, dan sering bermain untuk taruhan yang sangat tinggi. Semua ini bergabung untuk memberi Anda semangat muda, yang orang lain temukan menular dan menarik. Anda suka bekerja dengan orang lain, tetapi perlu melakukan tugas Anda tanpa terbebani oleh pengekangan orang lain. Anda harus tetap berpijak dan fokus jika ingin sukses. Anda sering jatuh cinta, terutama di awal kehidupan. Secara alami Anda sensual dan umumnya memiliki dorongan seks yang kuat. Karakteristik ini biasanya membuat kehidupan cinta yang hidup dan menyenangkan, tetapi Anda harus waspada terhadap perasaan dan hubungan yang dangkal. Tantangan Anda adalah mengembangkan hubungan yang matang dan langgeng. Disiplin diri dan menetapkan batas yang sehat adalah kunci kesuksesan Anda di hampir setiap bidang kehidupan Anda. <br> <br> Ironisnya, Anda akan menemukan bahwa ketika Anda belajar menetapkan batas yang tepat pada diri sendiri, Anda akan mengembangkan lebih banyak penguasaan diri. dan menyadari kebebasan yang lebih besar. Ini terutama benar ketika Anda ingin menyelesaikan apa yang Anda mulai. Kecenderungan Anda adalah menyerah begitu Anda berhasil mengendalikan proyek atau pekerjaan; Anda cepat bosan. Anda mulai berfantasi tentang tantangan baru, atau imbalan dari pencapaian besar Anda, jauh sebelum pekerjaan selesai. 5 Ekspresi menginginkan seluruh dunia. Anda sadar bahwa Anda memiliki banyak bakat yang dapat membawa banyak kesuksesan. Tetapi keberhasilan itu tergantung pada kemauan Anda untuk memilih bidang-bidang tertentu untuk dikonsentrasikan, dan membawanya ke kesempurnaan. ]]>
+    </string>
+    <string name="expression_6">
+        <![CDATA[
+
+        <b> penyembuh atau guru yang setia, keibuan, idealis, </b>
+Anda adalah individu yang penuh kasih dan perhatian dengan kecenderungan untuk menempatkan kebutuhan orang lain di atas kebutuhan Anda sendiri. Anda bertanggung jawab dan dapat dipercaya dengan menjunjung tinggi keadilan dan kejujuran.
+
+Tugas akan mengikuti Anda sepanjang hidup Anda dan kadang-kadang merasa sedikit terlalu berat. Keharmonisan dan keindahan adalah prioritas utama Anda.
+
+Anda memiliki bakat musik tetapi talenta kreatif dari 6 terkadang dibiarkan tidak berkembang atau ditekan karena kecenderungan Anda untuk mengorbankan waktu dan kesenangan untuk melayani orang lain.
+        Anda sangat kreatif dalam semua bidang kehidupan, khususnya visual. <br> <br>
+
+<b> Kamu memiliki bakat alami dengan bunga, kebun, dan hewan </b>.
+Kecintaan Anda pada anak-anak telah menyebabkan para numerolog menjuluki Anda "Ibu Kosmis atau Ayah Kosmik".
+        Anda adalah seorang penasihat dan penyembuh alami. Tetapi Anda harus berhati-hati untuk tidak mengganggu kebebasan orang lain.
+
+Anda diakui sebagai seorang idealis, terutama tentang pernikahan, pertemanan dan kemanusiaan.
+        6 adalah yang paling seimbang dari semua angka, tetapi juga mengandung paradoks terbesar dalam dirinya.
+
+Karena bakatnya untuk menyelaraskan hal-hal yang berseberangan ini, Anda memiliki kualifikasi unik untuk menangani dan mengintegrasikan kontradiksi dalam diri Anda.
+        Karena alasan inilah Anda sering menemukan diri mereka dalam peran tabib atau penasihat, menciptakan kedamaian di antara sudut pandang yang berlawanan, atau konflik internal dalam diri. <br> <br>
+
+Anda juga harus waspada terhadap perilaku usil dan tirani rumah tangga lainnya, atau selalu harus memiliki cara Anda sendiri dalam perselisihan keluarga.
+Sebaliknya, Anda memilikinya dalam diri Anda untuk memahami dilema orang lain dan menghasilkan solusi kreatif. <br> <br>
+        Kemampuan alami Anda untuk memberikan kenyamanan dan kehangatan dapat meredakan perasaan terluka seperti balsem penyembuh. Anda menarik cinta dan penghargaan. Dan memang demikian, karena Anda memberikan hal yang sama sebagai balasannya.
+
+    ]]>
+    </string>
+    <string name="expression_7">
+        <![CDATA[
+        <b> rajin belajar, intuitif, berpengetahuan luas, kontemplatif, serius, gigih, halus, anggun. </b>
+Anda berbakat dengan pikiran analitis dan keinginan besar untuk jawaban atas pertanyaan tersembunyi kehidupan.
+        Anda memiliki kejelasan dan kegigihan dalam pencarian Anda akan kebenaran.
+
+        Anda memiliki minat yang kuat dalam mengeksplorasi masalah ilmiah, filsafat, dan bahkan mistisisme.
+
+Anda didorong oleh keinginan untuk pengetahuan dan kebenaran.
+Anda harus belajar membedakan antara ilusi dan kenyataan, tetapi Anda siap untuk tugas ini. Pikiran Anda yang halus memberi Anda wawasan tentang misteri kehidupan terselubung.
+
+Di suatu tempat di dalam diri Anda, Anda menyadari tempat yang damai yang Anda panggil selama masa-masa sulit. Anda perlu waktu untuk sendirian. Terlalu banyak interaksi sosial menyebabkan Anda stres.
+        Anda membutuhkan privasi Anda dan tempat yang dapat ditutup dari hiruk pikuk kehidupan. Anda cenderung menyimpan pikiran untuk diri sendiri dan tertutup. <br> <br>
+
+Anda memiliki rasa tidak suka yang dangkal dan duniawi.
+Anda sering dikejutkan oleh kurangnya pemahaman atau kedalaman pengetahuan orang lain, banyak di antaranya tidak menganggap pencarian pengetahuan seserius Anda.
+        Ini dapat menyebabkan Anda bersikap kritis terhadap orang lain, dan bahkan sinis terhadap kehidupan secara umum. Semakin banyak terputus dari orang lain Anda menjadi, semakin tersembunyi motif Anda.
+        Setelah Anda mengembangkan pemahaman tentang orang dan kehidupan, saran dan nasihat Anda akan dicari oleh orang-orang di sekitar Anda yang membutuhkan kebijaksanaan Anda.
+Anda suka mengkhususkan pengetahuan Anda dan mengembangkan kedalaman dalam bidang Anda.
+        Anda harus menyelesaikan studi Anda di awal kehidupan dan tidak didorong terlalu keras oleh keinginan untuk sukses.
+        Biarkan segala sesuatunya berjalan sesuai kecepatannya sendiri, terbuka untuk peluang, tetapi ingat penghargaan Anda, kepuasan, dan kepuasan berasal dari sumber yang lebih tinggi. <br> <br>
+
+<b> Sevens bisa jauh dan menyendiri. </b>
+Ketika didominasi oleh karakteristik mereka yang lebih gelap, mereka bisa menjadi tidak setia, tidak jujur, dan kejam.
+        Perenungan, meditasi, dan getaran hidup yang lebih lembut dan halus dapat mengembalikan rasa harmoni Anda dan membuat Anda berada di jalan menuju kedamaian dan keseimbangan.
+
+Anda memiliki pikiran yang logis. Keterampilan analitis Anda menyebabkan Anda mendekati masalah dengan cara yang terpisah dan bedah.
+
+
+
+    ]]>
+    </string>
+    <string name="expression_8">
+        <![CDATA[
+        <b> efisien, mampu, pintar-jalan. </b>
+Anda memiliki kekuatan dan potensi untuk mencapai hal-hal besar.
+        Merupakan tantangan dan hak lahir Anda untuk mendapatkan kekuasaan atas sebagian kecil bumi.
+        Apa pun perusahaan Anda, Anda berusaha untuk menjadi yang terbaik dan paling sukses di bidang Anda.
+
+
+Anda sangat kompetitif dan tidak akan beristirahat sampai Anda puas bahwa Anda telah melewati lawan.
+        Uang dan wewenang tersedia bagi Anda jika Anda bersedia mendisiplinkan diri sendiri - umumnya bakat bawaan - dan bertahan dalam menghadapi hambatan besar di jalan Anda.
+
+Anda mendelegasikan tanggung jawab dengan baik; yang terbaik bagi Anda untuk meninggalkan banyak detail kepada orang lain.
+        Anda adalah pemimpin hebat orang dan jagoan karakter yang luar biasa. <br> <br>
+        Anda menuntut mereka yang bekerja untuk Anda, sering kali menempatkan hal-hal tanpa syarat:
+                 <b> lakukan dengan caraku atau jangan lakukan sama sekali! </b>
+
+
+
+Pada saat yang sama, Anda tidak ragu untuk menghargai karyawan yang setia dan pekerja keras.
+
+Anda memiliki pemahaman alami tentang uang, otoritas, dan kekuasaan.
+Anda dapat berjuang secara konsisten setelah tujuan Anda.
+Tantangan Anda dalam hidup adalah menyeimbangkan cita-cita Anda yang lebih tinggi dan pemahaman Anda tentang realitas keras bumi.
+        Banyak upaya yang harus dilakukan dan banyak pengalaman naik turun sebelum Anda mencapai tingkat kesuksesan yang Anda inginkan.
+
+Hidup mungkin akan menguji Anda berkali-kali dengan rintangan yang tampaknya tidak dapat diatasi.
+        Namun pada kenyataannya, ini hanyalah kesempatan bagi Anda untuk belajar bagaimana menggunakan kekuatan dan otoritas dalam menghadapi kesulitan,
+        dan untuk mengetahui seberapa besar kekuatan yang ada dalam diri Anda. Sangat penting untuk kesuksesan Anda agar Anda menyeimbangkan materi dan spiritual.
+        Anda telah memilih jalur yang membutuhkan keseimbangan antara memberi dan menerima, hadiah dan hukuman, tindakan dan reaksi. <br> <br>
+
+Meskipun ada hambatan di jalan Anda, Anda benar-benar selamat.
+Ketika berfokus secara eksklusif pada hasrat Anda untuk hasil dan kesuksesan, Anda bisa menjadi keras kepala dan tidak toleran;
+        Anda dapat didorong oleh ambisi yang berlebihan, menyebabkan Anda menuntut dan tanpa perspektif.
+
+        Berhati-hatilah dengan konsumsi alkohol Anda, zona berbahaya bagi Anda. Anda bisa menjadi peminum sosial, memadukan bisnis dengan kesenangan - koktail berbahaya.
+
+
+Anda telah dipercayakan dengan hadiah khusus, penggunaan atau penyalahgunaan yang memiliki efek langsung dan seringkali fisik pada Anda dan orang-orang di sekitar Anda!
+        Gunakan hadiah-hadiah ini untuk kebaikan umat manusia dan terima nasib baik Anda sendiri dengan rasa terima kasih. Ini adalah tahap penghargaan Anda dalam evolusi Anda.
+
+
+
+
+
+    ]]>
+    </string>
+    <string name="expression_9">
+        <![CDATA[
+
+        <b> dermawan, kemanusiaan, mandiri, bangga, dan mau berkorban. </b>
+        Anda tertarik pada suatu tujuan atau gerakan yang tujuannya adalah untuk membuat dunia yang lebih baik. Anda sangat idealis, kemanusiaan.
+        kadang-kadang sampai naif tentang orang atau metode. Anda memiliki belas kasih yang besar dan berusaha menciptakan masyarakat yang lebih manusiawi.
+        Anda tertarik kepada mereka yang menderita secara fisik atau berada di tangan ketidakadilan.
+        Anda adalah pejuang kesalahan. Niat terdalam Anda adalah untuk mengubah dunia. Anda bersedia berkorban untuk memajukan perjuangan Anda.
+        Memang, ini tampaknya menjadi tema dalam hidup Anda. Dari waktu ke waktu,
+        Anda menemukan diri Anda terlibat dalam sebuah proyek yang kehidupannya sangat bergantung pada kesediaan Anda untuk mengorbankan sesuatu yang berhubungan langsung dengan ego Anda. <br> <br>
+
+Anda sangat idealis. Anda juga seorang visioner, dengan kemampuan untuk mempengaruhi dan mengarahkan massa.
+Jauh di lubuk hati, Anda merindukan cinta dan persetujuan banyak orang, dan mencari ketenaran. Sebagian dari rasa lapar Anda akan ketenaran berkaitan dengan kebutuhan Anda akan validasi; Anda adalah kritik Anda sendiri yang paling keras.
+
+Anda menyadari kepuasan terbesar Anda ketika Anda terlibat dalam beberapa kegiatan yang secara langsung bermanfaat bagi kebaikan publik.
+ Anda memiliki pandangan luas tentang kemanusiaan dan tidak terbelenggu dengan prasangka.
+
+Anda harus memiliki teman dan kolega dari semua lapisan masyarakat, semua warna dan latar belakang agama. Orang memesona dan memperkaya Anda.
+        Keragaman luas orang dan pengalaman merangsang dan memunculkan kualitas dalam diri Anda yang jika tidak akan tertidur. <br> <br>
+
+  Anda memiliki banyak bakat artistik. <br> <br>
+Ekspresi 9 menunjukkan bahwa Anda telah mencapai titik di mana terobosan dapat terjadi;
+selama hidup ini Anda dapat menerapkan semua yang telah Anda pelajari di sepanjang jalur evolusi Anda dan menyelesaikan tahap utama dalam perkembangan Anda.
+ Inilah sebabnya kami menemukan banyak genius dengan Ekspresi 9. Anda memiliki kemampuan untuk mensintesis banyak bit pengetahuan yang beragam menjadi satu kesatuan.
+
+           <b> Penampilan Anda penting. </b>
+        Anda sangat menyadari bagaimana orang lain memandang Anda.
+        Akibatnya, orang lain melihat Anda sebagai orang dengan kontrol yang besar. Sebaliknya, Anda karismatik.
+         Terlepas dari kepribadian keren dan jauh yang Anda proyeksikan, orang-orang tertarik kepada Anda. Anda cenderung mengekspresikan cinta Anda agak tidak pribadi.
+
+Anda cenderung disibukkan dengan visi atau tujuan Anda, dan terkadang mengabaikan kebutuhan orang-orang terdekat Anda.
+ Anda perlu diingatkan untuk memberikan cinta Anda secara lebih pribadi dan lebih terbuka. Ironisnya, Anda adalah orang yang sangat penyayang dan tulus, tetapi sering kali mengabaikan untuk mengungkapkan apa yang sebenarnya Anda rasakan.
+
+Dengan cara yang sama, Anda dapat mengabaikan kebutuhan Anda sendiri. <br> <br>
+ Anda menghindari berbagi perasaan yang lebih dalam, menciptakan reservoir emosi.
+ Anda cenderung menunda kepuasan pribadi Anda demi beberapa pekerjaan yang lebih besar. Cobalah untuk lebih spontan dan berani dalam menunjukkan diri Anda yang sebenarnya, termasuk kerentanan Anda.
+
+<b> Keyakinan dasar Anda pada kebaikan umat manusia tidak tergoyahkan. </b>
+        Hal ini menyebabkan Anda mendorong yang terbaik pada orang, tetapi kadang-kadang membuat Anda rentan untuk dimanfaatkan. Anda bukan hakim karakter yang sangat baik.
+        Cara paling pasti untuk kepuasan pribadi adalah agar Anda menjadi bagian dari tujuan sosial yang lebih besar.
+        Sifat Anda adalah melayani. Anda paling bahagia ketika Anda merasa sedang membantu memajukan umat manusia.
+
+
+
+    ]]>
+    </string>
+    <string name="expression_11"><![CDATA[
+       <b> lembut, kooperatif, pembuat perdamaian, bakat musik. </b>
+Milik Anda adalah nomor Ekspresi yang paling banyak ditagih. Anda seperti penangkal petir, menarik ide-ide kuat, intuisi, dan bahkan informasi psikis seperti baut yang tidak dapat diprediksi.
+
+Anda adalah kehadiran yang kuat, seringkali tanpa kesadaran dari pihak Anda memiliki kekuatan pribadi.
+<b> Nomor 11 adalah angka RARE </b>
+Anda adalah saluran untuk getaran yang lebih tinggi. Tetapi untuk menjadi tenang secara emosional dan psikologis, Anda harus belajar mengendalikan aliran energi itu.
+
+Anda memiliki jembatan antara yang tidak sadar dan yang sadar.
+Masalahnya adalah bahwa alam bawah sadar adalah sumber daya yang tak terbatas, sedangkan kesadaran menurut definisi adalah arena terbatas.
+ Karena itu keduanya berselisih sampai mereka dapat belajar untuk hidup dalam harmoni satu sama lain. Di sinilah kontrol masuk.
+  Sampai Anda mampu mengendalikan aliran energi dari sumber yang tak terbatas ini, Anda mungkin merasa seperti korban imajinasi, dilemparkan oleh gejolak emosi dan ketegangan gugup.
+
+Anda selalu merasakan bahwa Anda berbeda, tetapi itu adalah perasaan yang tidak dapat didefinisikan.
+Anda sangat sensitif dan sadar, terutama sebagai seorang anak. Ini membuat Anda rentan terhadap semua konflik dan situasi yang menyakitkan.
+Namun, untuk sebagian besar asuhan Anda, Anda tidak menyadari bahwa orang lain tidak memiliki kepekaan yang sama, juga tidak melihat hal yang sama seperti yang Anda lihat.
+Hal ini menyebabkan banyak emosi yang dibendung di balik ketidakmampuan untuk mengekspresikan perasaan Anda, bahkan kepada diri Anda sendiri.
+
+Karena alasan ini, sebagian besar 11 Ekspresi memiliki masa kecil yang sulit. Sensitivitas ekstrem Anda membuat Anda sangat malu ketika kecil.
+ Ini biasanya bermanifestasi di masa dewasa sebagai keragu-raguan dan kerentanan akut.
+
+Anda sangat berhati-hati berbagi perasaan dengan orang lain dan memilih teman.
+Anda mengimbangi rasa keterpisahan Anda di masa kecil dengan menciptakan dunia fantasi yang rumit. Anda melamun lebih dari anak-anak lain.
+Anda memiliki imajinasi yang hidup dan bahkan di masa dewasa mengalami kesulitan memisahkan kenyataan dari fantasi.
+
+<b> Tantanganmu adalah memunculkan kekuatanmu yang primitif dan sederhana. </b>
+Anda harus membumi untuk berurusan dengan baut kilat Anda.
+Semakin Anda dapat memanggil kekuatan manusiawi Anda yang melekat, semakin besar kemampuan Anda untuk memanfaatkan kesadaran Anda yang sangat sensitif.
+ Setelah ini selesai, antagonis Anda menjadi dermawan Anda.
+
+Anda sangat emosional dan tergantung pada hubungan. Secara emosional, Anda naik dan turun dengan kekayaan kehidupan cinta Anda. Anda idealis, tidak praktis, dan kadang-kadang kacau.
+
+Anda sering tidak realistis dalam harapan Anda.
+ Alasan Anda melakukan sesuatu biasanya lahir dari campuran logika, emosi, dan intuisi, yang jarang dapat dijelaskan secara memuaskan kepada rekan kerja Anda yang lebih rasional.
+    ]]></string>
+    <string name="expression_22"><![CDATA[
+    <b> potensi besar untuk mencapai sesuatu yang besar. </b>
+Anda adalah pembangun utama. Anda memiliki karunia unik untuk merasakan sesuatu di dunia pola dasar - tak terbatas dan ilahi - dan membuat beberapa kemiripan itu terwujud di bumi.
+<b> Nomor 22 adalah nomor RARE </b>
+
+Kamu bermimpi besar.
+Setiap tujuan yang Anda miliki sangat besar cakupannya. Anda bermimpi menciptakan sesuatu yang akan berlangsung berabad-abad. Keinginan Anda adalah mengubah sejarah. Anda ingin membuat tanda pada peradaban manusia. Tidak ada batasan untuk apa yang mampu Anda lakukan, atau apa pun yang Anda impikan.
+
+Dari semua angka, Anda memiliki potensi terbesar untuk pencapaian. Pada saat yang sama, Anda memiliki tanggung jawab terbesar. Apa yang Anda perlukan untuk memenuhi potensi Anda tidak kurang dari seluruh hidup Anda. Bahkan sebagai seorang anak, Anda memiliki perasaan yang samar tentang apa yang harus Anda lakukan dan selalu sangat terintimidasi oleh kedahsyatan tugas Anda. Anda telah merasakan keintiman dari kekuatan Anda. Tetapi perasaan ini telah menyebabkan Anda merasa lumpuh karena keraguan.
+
+Anda harus maju hingga dewasa sebelum Anda dapat mulai menggunakan kekuatan Anda dan benar-benar berkomitmen untuk nasib Anda. <br> <br>
+Janji dan pahala Ekspresi Anda disamakan hanya dengan tingkat kesulitan dan perjuangan yang diperlukan untuk mewujudkan potensinya.
+
+Anda mungkin tidak ingin mengambil risiko besar yang disajikan 22.
+Sebagai gantinya, Anda dapat mencoba untuk memuaskan diri sendiri dengan prestasi yang terbatas, mengatakan pada diri sendiri bahwa impian besar Anda adalah fantasi yang tidak realistis.
+        Ini dapat menyebabkan frustrasi, karena pada tingkat tertentu Anda merasa terpanggil untuk hal-hal yang lebih besar.
+        Meskipun demikian, peluang Anda untuk sukses, bahkan ketika Anda membatasi upaya Anda, masih bagus. <br> <br>
+
+<b> Anda memiliki kemampuan memimpin yang hebat </b>. Anda gigih.
+        Anda juga menolak untuk mundur saat menghadapi tantangan. Anda suka bekerja di perusahaan besar dan dalam skala internasional.
+        Batas atau identitas rasial tidak berarti bagi Anda. Anda melihat diri Anda sebagai warga dunia, bermain di planet ini, dan menolak untuk dibatasi oleh konvensi kecil.
+
+Anda harus menikahi seseorang yang tidak bergantung pada Anda untuk hiburan, melainkan memilih pasangan yang dapat berpartisipasi dengan Anda tetapi memberikan kontribusi independen untuk tujuan Anda.
+
+Anda diberkati dengan visi yang jauh ke depan.
+Upaya Anda diarahkan pada pencapaian besar dan kemajuan lama. Anda sangat ingin membuat bangunan besar yang akan memberikan kontribusi yang langgeng, dan Anda memiliki semua alat yang diperlukan untuk melakukan hal itu.
+    ]]></string>
+
+
+    <string name="soul_1"><![CDATA[
+
+Anda terobsesi dengan ide-ide Anda dan sulit untuk berubah pikiran. Setelah Anda menetapkan pikiran pada sesuatu. Hampir mustahil untuk meyakinkan Anda bahwa mungkin Anda salah. Dengan kata lain, Anda tidak mungkin mengubah pendapat atau perilaku mereka terhadap hal-hal tertentu. Seperti yang disebutkan sebelumnya, mereka yang memiliki dorongan jiwa nomor 1 memiliki pikiran yang jernih dan sebagai hasilnya Anda dapat mengumpulkan dan mengatur pikiran mereka dengan cepat. Orang-orang dengan jumlah ini memiliki kendali besar atas kehidupan mereka dan memahami mengapa Anda memandang sesuatu dengan cara tertentu. Kontrol tersebut termasuk bebas narkoba, jelas, tepat, dan kuat kepala. Meskipun Anda mandiri, Anda memiliki kepribadian yang kuat. Akibatnya, Anda menghargai perhatian orang lain dan menuntut rasa hormat. Anda juga sangat melindungi orang lain dan dapat merawat orang yang mereka cintai dengan baik. <br> <b> TRAIT </b> <br> Anda kuat dan beruntung mendapat bantuan dari orang-orang di posisi yang lebih tinggi. Anda suka bebas dan menolak ide-ide seperti pantang. Selain itu, Anda cepat mencoba hal-hal baru dan beradaptasi dengan baik dengan dunia modern dan teknologi baru. Selain itu, Anda memasang putaran unik pada ide-ide tertentu karena kreativitas alami mereka. Jarang sekali menemukan seseorang dari nomor ini berada dalam suasana hati yang buruk, Anda biasanya optimis dan memiliki pandangan hidup yang positif. Anda juga ambisius dan dapat melakukan kerja manual yang berat. Anda juga memiliki sisi spiritual yang kuat, dan meskipun Anda sangat mandiri, Anda melakukannya dengan baik dalam hal kerja tim. Anda biasanya tidak merasa iri, marah, atau kecewa. Anda hebat dalam membuat keputusan sepersekian detik yang benar karena pikiran mereka yang aktif secara konstan. Akibatnya, Anda dengan cepat naik ke posisi yang lebih tinggi dalam pekerjaan mereka. Di sisi lain, jika Anda tidak dapat mengatasi tugas-tugas tertentu, Anda dapat menjadi frustrasi dan mulai merasa sedikit tertekan. <br> <b> ROMANCE </b> <br> Penting agar Anda menemukan mitra yang mendukung tujuan dan ambisi Anda. Selain itu, pasangan Anda harus mengerti bahwa Anda akan sibuk sebagian besar waktu karena tekad Anda untuk bekerja keras. Akibatnya, sulit untuk menemukan seseorang yang dapat berkomitmen pada kualitas kepemimpinan yang Anda miliki. Di sisi lain, Anda harus mengingatkan pasangan Anda bahwa Anda belum meninggalkan mereka, dan Anda juga harus memastikan untuk menemukan waktu untuk mereka juga. Selain itu, beri tahu mereka betapa Anda menghargai mereka dan bahwa kerja keras Anda tidak dapat dilakukan tanpa cinta, kesabaran, dan dukungan yang Anda terima dari mereka. Salah satu dorongan terbesar yang Anda miliki adalah bekerja keras untuk membangun masa depan yang lebih baik bukan hanya untuk diri sendiri tetapi juga hubungan Anda. <b> <br> SISI NEGATIF ​​</b> <br> Meskipun Anda memiliki banyak kualitas hebat, Anda harus berhati-hati untuk tidak melupakan hal-hal penting dalam hidup. Orang cenderung menyerah pada gaya hidup mewah dan mungkin secara impulsif membelanjakan uang Anda untuk hal-hal yang tidak Anda perlukan hanya untuk mengesankan orang lain. Anda juga suka menghabiskan uang Anda untuk orang yang Anda cintai tetapi melakukannya dengan cara yang sembrono. Meskipun baik bahwa Anda memperhatikan orang-orang yang Anda cintai dan teman-teman, Anda harus berhati-hati untuk tidak hidup di luar kemampuan Anda. Selain itu, Anda mungkin merasa karena Anda berkewajiban untuk memenuhi peran tertentu. Akibatnya, Anda dapat mengalami banyak perubahan suasana hati jika Anda tidak dapat memenuhi peran itu. Alhasil, Anda menjalani banyak pengorbanan untuk memenuhi tujuan yang Anda harapkan. Juga sulit bagi Anda untuk menerima segala jenis kritik tetapi Anda cepat mengkritik orang lain. Meskipun Anda mungkin memiliki wawasan yang hebat, Anda juga bisa sedikit sombong. Selain itu, Anda tidak suka lingkungan kerja yang berantakan, orang-orang malas, janji-janji kosong, dan menunda-nunda. Akibatnya, Anda bisa tidak sabar dan sering menuntut solusi cepat untuk masalah tertentu. Hati-hati terhadap hal-hal ini dan ikuti tips di bawah ini untuk menghindari jatuh ke dalam hal negatif ini yang dapat menyebabkan Anda menjadi marah atau tertekan.
+]]></string>
+    <string name="soul_2"><![CDATA[
+    Dikatakan bahwa Bulan mengendalikan Jiwa Nomor 2 dan itulah yang membuat angka ini begitu peduli, penuh kasih, dan artistik. Mereka yang termasuk dalam jumlah ini biasanya sangat tenang, damai, dan santun. Selain itu, Anda memiliki imajinasi besar yang mendorong kreativitas Anda; namun, Anda kesulitan menerapkan kreativitas Anda. Lebih baik jika Anda menguji ide-ide Anda untuk menjadi cukup percaya diri untuk membawanya ke cahaya. Frekuensi yang membentuk dorongan jiwa nomor 2 adalah: persahabatan, bersosialisasi, transparansi, keseimbangan, dan kerja tim. Kerjasama adalah penyedia energi positif terbaik untuk mereka yang berasal dari nomor ini.
+
+
+Anda hebat dalam beradaptasi dengan lingkungan baru. Selain itu, Anda dapat menjaga hal-hal bersama bahkan melalui masa volatile. Ini adalah aspek penting dari angka ini karena Anda dapat menyatukan pandangan-pandangan yang berlawanan dan menjalin hubungan damai dengan bertemu orang lain di tengah jalan. Perintah ini yang Anda miliki atas kekuatan penyatuan adalah mengapa Anda bekerja paling baik dengan orang lain sebagai lawan memimpin. Dengan kata lain, Anda sabar dan taat tetapi di atas semua itu Anda sangat responsif terhadap orang lain dan dapat membantu para pemimpin di saat Anda membutuhkan. Alasannya, Anda memiliki keinginan kuat akan perdamaian dan harmoni dan lebih suka melihat kelompok-kelompok berasimilasi daripada terpisah.
+
+
+<br> <b> KEHIDUPAN SOSIAL </b> <br>
+Anda selalu melihat keluar untuk membuat koneksi dan persahabatan yang langgeng. Tidak ada yang lebih Anda inginkan daripada dapat memulai percakapan dengan orang-orang di sekitar Anda dan menikmati kehadiran satu sama lain. Akibatnya, orang secara alami tertarik kepada Anda dan kepribadian Anda membantu menjaga mereka tetap hidup. Selain itu, Anda sangat sensitif terhadap orang lain dan emosi Anda. Kasih sayang alami yang Anda miliki untuk orang lain inilah sebabnya orang tumbuh sangat memperhatikan Anda.
+
+
+Meskipun dorongan jiwa nomor 2 peduli dan peka terhadap orang lain; jangan salah mengira ini karena kelemahan. Ada peluang bagus bahwa Anda meyakinkan dengan gaya yang unik untuk diri sendiri. Untuk memperjelas, karena Anda memahami orang lain dengan sangat baik, Anda dapat menemukan solusi hebat dan saran untuk masalah orang lain. Dengan kemampuan ini Anda tidak perlu mengendalikan orang, tetapi lebih memengaruhi dengan kepercayaan, kepedulian, dan kasih sayang.
+
+Anda harus waspada terhadap mereka yang terlalu kuat dan dominan. Alasannya adalah karena Anda tidak berhasil dengan mereka yang mencoba dan mengendalikan Anda. Anda harus selalu menjaga nasib Anda di bawah kendali Anda sendiri!
+
+<br> <b> HUBUNGAN ROMANTIK </b> <br>
+
+Cinta tak berkesudahan Anda bagi orang-orang di sekitar Anda menuntun Anda untuk mencari cinta yang sama sebagai balasannya. Adalah penting bahwa Anda menerima kekaguman dari orang lain dan yang paling penting adalah cinta. Ini terutama berlaku untuk minat romantis Anda. Ini adalah tujuan akhir Anda! Agar pasangan romantis Anda membalas cinta dan perasaan yang sangat Anda miliki untuk orang lain adalah yang paling Anda inginkan.
+
+Namun, kepercayaan Anda dan melihat sisi baik orang kadang-kadang terlalu jauh. Karena Anda mungkin cenderung sedikit marah ketika seseorang yang dekat dengan Anda mengecewakan Anda. Akibatnya, ini dapat menyebabkan banyak masalah dengan pasangan Anda. Anda harus belajar untuk mempercayai pasangan Anda tetapi tidak mempercayai mereka secara membabi buta. Lebih jauh lagi, menerima kenyataan bahwa Anda tidak sempurna, dan kesalahan akan terjadi. Hubungan Anda tidak akan bertahan lama jika Anda selalu menganggapnya terlalu pribadi.
+
+<b> <br> SISI NEGATIF ​​</b> <br>
+Karena Anda memiliki kepribadian yang sensitif, Anda cenderung mengalami "ego yang memar". Akibatnya, penting untuk tidak menyelesaikan hal-hal kecil. Selain itu, tidak semua orang memahami sifat emosional Anda sebaik Anda. Hal lain yang perlu Anda perhatikan adalah terlalu percaya. Jika orang lain merasa bahwa Anda terlalu percaya, mereka akan mencoba mengambil keuntungan dari Anda. Anda tidak perlu takut untuk mengatakan "tidak" dan memberi tahu seseorang ketika mereka sudah terlalu jauh. Selain itu, Anda mungkin pemalu, malu-malu, dan ketakutan dengan mudah seperti banyak 2. Cobalah dan atasi hal-hal ini karena Anda cenderung mengganggu hidup Anda dan menghentikan Anda bertemu orang baru.
+    ]]></string>
+
+    <string name="soul_3"><![CDATA[
+       Dorongan jiwa nomor 3 adalah salah satu angka terkuat dalam numerologi. Jika ini adalah nomor jiwa Anda, maka kemungkinan besar Anda adalah individu yang kuat yang ditentukan dan fokus. Selain itu, keberanian, kasih sayang, antusiasme, dan pandangan optimis Anda membantu Anda mencapai tujuan. Akibatnya, mungkin tidak mengherankan bahwa Anda terus memikirkan masa depan dan apa yang ada di depan. Kepuasan terbesar Anda berasal dari pemikiran untuk mencapai hal-hal yang akan diingat oleh orang lain selama bertahun-tahun yang akan datang.
+
+
+
+<b> <br> KEHIDUPAN SOSIAL </b> <br>
+
+Orang lain secara alami tertarik kepada Anda karena karakter kuat Anda. Anda biasanya menjadi titik fokus dalam pertemuan sosial. Anda membawa kegembiraan dan kegembiraan di sebagian besar pertemuan sosial dan meskipun Anda tidak bermaksud menjadi pusat perhatian yang Anda masih rukun dengan sebagian besar. Selain itu, orang-orang memandang Anda dan mengambil inspirasi hebat dari gaya hidup Anda yang bekerja keras dan riang. Selain itu, Anda memiliki selera humor yang luar biasa yang membuat orang asing merasa seperti mereka telah mengenal Anda selama bertahun-tahun. Ini adalah kemampuan untuk terhubung dengan orang-orang dengan cepat yang membantu menghadirkan yang terbaik dalam diri Anda termasuk gagasan dan peluang bagi Anda untuk tumbuh.
+
+
+Kreativitas adalah pusat dari keberadaan Anda dan menjadi sosial adalah bagaimana Anda menerima energi positif. Di sisi lain, Anda tidak membiarkan orang lain menjatuhkan Anda dan mencegah Anda berbicara. Sayangnya, ini menyebabkan banyak musuh yang ingin melihat Anda gagal. Namun, Anda cukup kuat untuk mengetahui kata-kata lawan Anda tidak akan membahayakan Anda. Faktanya, Anda menikmati "bermain-main" dengan musuh-musuh Anda dan membiarkan mereka berpikir mereka lebih unggul padahal sebenarnya mereka tidak!
+
+Anda harus berhati-hati karena dorongan jiwa nomor 3 telah dikenal terlalu jauh. Ketika Anda menjadi sedikit terlalu bersemangat atau takut Anda kadang-kadang tidak tahu kapan harus berhenti dan berpikir dengan pikiran jernih. Dengan kata lain, Anda rentan membuat keputusan buruk jika pikiran Anda tidak jernih. Sebagian besar waktu Anda mendapat masalah karena apa yang Anda katakan. Anda harus memperhatikan apa yang Anda katakan di sekitar orang-orang tertentu karena tidak semua orang akan setuju dengan Anda.
+
+
+
+<br> <b> HUBUNGAN </b> <br>
+Wajar jika semangat keluar Anda akan menarik banyak calon pasangan romantis. Sementara beberapa mungkin hanya ingin menjadi teman, banyak yang ingin membawa Anda lebih jauh. Anda harus berhati-hati untuk memilih pasangan yang akan memperlakukan Anda dengan baik dan bahwa Anda kompatibel dengan itu. Ketika Anda menemukan seseorang yang istimewa, Anda akan mengembangkan hubungan menjadi pasangan yang berkembang karena kesetiaan yang kuat dari 3s.
+
+
+<br> <b> SISI NEGATIF ​​</b> <br>
+Sifat Anda yang antusias dan terbuka kadang-kadang dapat menyebabkan Anda banyak masalah. Untuk memperjelas, Anda sering mengatakan sesuatu tanpa memikirkannya. Akibatnya, Anda terkadang merasa sedih dan malu. Anda harus belajar untuk tidak bertindak begitu cepat dan memikirkan segalanya terlebih dahulu. Gagal melakukannya dapat memperburuk situasi buruk dan benar-benar dapat menyebabkan banyak sakit kepala bagi Anda. Anda harus ingat bahwa kelemahan Anda adalah perasaan yang tidak diinginkan dan teralienasi. Bersikap sosial tapi hati-hati. Bicaralah tetapi tidak demi berbicara. Yang terpenting, tetaplah ambisius dan bangga dengan prestasi Anda tetapi tidak dengan cara menyombongkan diri.
+
+    ]]></string>
+    
+    <string name="soul_4"><![CDATA[
+       Apakah Anda terobsesi untuk menjaga barang-barang? Apakah Anda memerlukan stabilitas untuk menjaga agar semuanya tetap terkendali? Kesempatan apakah Anda suka menetapkan tujuan untuk benar-benar menyelesaikan sesuatu? Jika Anda menjawab ya untuk pertanyaan-pertanyaan ini, maka Anda mungkin adalah dorongan jiwa nomor 4. Kebutuhan akan struktur adalah yang mendorong Anda untuk mencapai hal-hal besar. Karena mereka yang memiliki dorongan jiwa nomor 4 membutuhkan segalanya untuk berjalan sesuai rencana, mereka sering frustrasi ketika hal-hal tidak berjalan seperti yang mereka inginkan. Namun, ini juga membuat 4 gigih. Akibatnya, mereka jarang menyerah ketika mereka memikirkan sesuatu. Selain itu, sebagai angka 4 Anda tidak boleh menjadi terlalu frustrasi karena Anda tidak dapat mengendalikan segalanya dan semua orang. Perjuangan inilah yang membantu Anda tumbuh sebagai pribadi dan menjadi lebih baik dalam perencanaan dan pengorganisasian.
+
+Angka 4 digambarkan sebagai stabil, terorganisir dengan baik, pembangun yang kuat, dan santun.
+        Ketika Anda mengakui deskripsi diri Anda dan menghargai mereka.
+        Kualitas-kualitas ini mencerminkan dengan baik kepribadian Anda dan bagaimana orang lain memandang Anda.
+        Anda memiliki pikiran yang kuat, penalaran logis, dan keterampilan resolusi hebat. Selain itu, kesabaran dan antusiasme Anda berhasil baik dalam karier dan lingkungan sosial Anda. Selanjutnya, Anda membela orang-orang yang tidak bisa membela diri.
+
+
+<br> <b> KEHIDUPAN SOSIAL </b> <br>
+Sementara teman dan keluarga Anda telah mencintai Anda dan melihat Anda sebagai pengaruh yang besar, Anda juga keras kepala dan terus terang. Untuk memperjelas, Anda tidak bermaksud menyakiti siapa pun kecuali kepribadian logis dan alasan Anda terkadang mengambil alih kemampuan Anda untuk "membaca" situasi tertentu. Artinya, kadang-kadang Anda merasa sulit menangkap emosi orang lain. Membaca emosi adalah salah satu kelemahan Anda dan penting untuk mengingatkan teman dan keluarga betapa Anda peduli padanya. Anda tidak dapat menganggap orang yang Anda sayangi tahu bagaimana perasaan Anda tentang mereka. Secara aktif beri tahu mereka seberapa besar artinya bagi Anda.
+
+<br> <b> HUBUNGAN </b> <br>
+Anda mengalami kesulitan mempercayai orang lain dan membuka diri sejati Anda kepada mereka.
+        Sayangnya, ini dapat bertentangan dengan pengembangan hubungan yang lebih dalam dengan pasangan romantis.
+        Sulit bagi Anda untuk memberi tahu pasangan Anda rahasia dan perasaan sejati Anda.
+        Namun, Anda harus gigih dengan hubungan dan Anda akan melihat itu akan sia-sia.
+
+
+<br> <b> SISI NEGATIF ​​</b> <br>
+Ada beberapa hal yang perlu diwaspadai seperti yang disebutkan sebelumnya Anda memiliki masalah membuka diri terhadap orang lain dan mempercayai mereka. Ini mencegah Anda membuat jejaring sosial besar penuh peluang. Selain itu, Anda harus belajar berhenti menjadi begitu kritis karena semua yang dilakukannya menyinggung. Dengan kata lain, kritik Anda terhadap orang lain membuat mereka merasa terasing dan yang terbaik adalah membuat sebanyak mungkin teman dan sekutu. Coba dan lihat sisi positif orang.
+
+Anda harus mendorong kegelapan dan sisi negatif dari diri Anda sendiri, baru setelah itu Anda dapat menemukan cahaya.
+Karena Anda memiliki masalah dalam berhubungan dengan orang lain, Anda mencoba untuk membelinya dengan membelanjakan uang untuk mereka. Namun, Anda harus berhati-hati untuk tidak menghabiskan di luar kemampuan Anda. Selanjutnya, Anda harus menyadari bahwa "membeli" orang dengan hadiah bukanlah bagaimana hubungan yang bermakna dan langgeng terbentuk. Sebagian besar waktu kemurahan hati sebagai kata-kata baik mencapai lebih dari hadiah yang paling mahal.
+
+<br> <b> KATA-KATA AKHIR FINIS </b> <br>
+Anda harus melewati kesulitan berhubungan dengan orang lain. Sendirian tidak baik untuk siapa pun. Coba dan lihat sudut pandang orang lain dan tetap berpikiran terbuka. Melalui orang lain Anda akan menjadi seimbang dan ini akan membantu Anda mengatur lebih dari yang Anda bayangkan. Jangan pernah lupa bahwa masa-masa sulit membuat orang sulit dan ketertiban lahir dari kekacauan.
+    ]]></string>
+
+    <string name="soul_5"><![CDATA[
+       Kebebasan adalah keinginan jiwa nomor 5 yang paling diinginkan. Anda lebih suka bepergian dan memiliki pengalaman baru dan bertemu orang baru juga. Menghadirkan tantangan dan ide baru menggairahkan Anda dan orang-orang di sekitar Anda. Ini adalah ide-ide baru yang memungkinkan Anda mengalami hal dan tempat baru. Ini adalah pencarian kebebasan tanpa akhir yang membuat Anda menjadi diri Anda sendiri.
+
+<br> <b> KEHIDUPAN SOSIAL </b> <br>
+Anda cepat membuat teman baru tetapi sulit bagi Anda untuk menjaganya dalam waktu lama. Untuk memperjelas, bertemu orang baru itu mengasyikkan bagi Anda, tetapi menempatkan pekerjaan untuk mempertahankan persahabatan bukanlah pilihan yang tepat. Selain itu, perilaku Anda yang tidak terduga kadang-kadang dapat mengganggu teman Anda dan sering menyebabkan perpisahan yang berantakan. Selain itu, Anda memiliki kesulitan untuk melihat bagaimana itu salah Anda dan ini membuat Anda merasa seperti telah dikhianati oleh teman-teman Anda. Masalahnya adalah Anda tidak tahan kesepian. Di sisi lain, karena Anda terus-menerus berteman baru, Anda tidak benar-benar menemukan diri Anda sendirian hampir sepanjang waktu. Namun, Anda harus berupaya membangun persahabatan baru ini untuk mengembangkan hubungan yang bertahan lama.
+
+Karena aura ramah yang Anda berikan, mudah bagi orang lain untuk mendekati dan memercayai Anda. Anda biasanya orang yang paling populer di antara teman-teman Anda, dan mereka senang berada di dekat Anda dan bercakap-cakap dengan Anda. Terkadang teman-teman Anda cemburu ketika Anda menghabiskan waktu bersama orang lain dan itulah sebabnya terkadang Anda memiliki hubungan pertemanan.
+
+
+Satu tempat yang tidak Anda sukai adalah di rumah Anda. Anda ingin memiliki rumah yang stabil untuk mendukung Anda di semua keputusan Anda yang lain. Anda sering menjadi sangat marah ketika orang lain mengganggu stabilitas rumah Anda atau menyentuh / mengatur ulang barang-barang Anda.
+
+<br> <b> HUBUNGAN </b> <br>
+Menemukan cinta bisa jadi sulit karena betapa mudahnya bagi Anda untuk bertemu orang baru. Sabar dan berusahalah menemukan pasangan yang berkualitas.
+Seperti disebutkan sebelumnya, kepribadian spontan dan semangat bebas Anda terkadang membuat sulit untuk menjaga persahabatan. Akibatnya, sulit menemukan pasangan romantis yang memercayai dan memahami Anda. Karena Anda menarik orang baru ke dalam hidup Anda dengan mudah, Anda tergoda untuk sekadar melanjutkan hubungan daripada mencoba memperbaikinya. Namun, jangan jatuh hati pada hal ini karena Anda tidak akan pernah mengalami hubungan yang penuh dan berkembang di mana Anda berdua mengatasi masalah Anda daripada menyerah pada tanda pertama masalah.
+
+<br> <b> SISI NEGATIF ​​</b> <br>
+Anda memiliki kebiasaan buruk dalam mengambil keputusan tanpa sepenuhnya memikirkannya. Anda harus belajar untuk lebih sabar dan mengevaluasi situasi dengan benar sebelum membuat pilihan. Selain itu, pemikiran cepat Anda membuat Anda mengatakan hal-hal yang kemudian Anda sesali. Ini sebagian besar karena Anda agak cepat marah. Selain itu, karena Anda mengenal orang dengan sangat baik, Anda dapat benar-benar melukai mereka karena Anda tahu persis apa yang harus dikatakan untuk menjatuhkan seseorang.
+
+<br> <b> KATA-KATA AKHIR FINIS </b> <br>
+Anda tidak suka diam karena Anda merasa terus bergerak memberi Anda energi. Sekali lagi, ini karena kerinduan Anda akan kebebasan dan petualangan yang terjadi. Walaupun ini kedengarannya bagus, itu tidak sehat untuk tidak pernah istirahat. Ketika dorongan jiwa nomor 5 mengerti bahwa Anda harus berusaha memperlambat dan menenangkan diri dari waktu ke waktu. Anda bukan manusia super, jadi jangan terlalu memaksakan diri. Orang yang Anda cintai akan sangat menghargainya.
+    ]]></string>
+    <string name="soul_6"><![CDATA[
+   Cinta adalah hal yang paling kuat untuk 6. Bagi mereka yang memiliki keinginan jiwa nomor 6 merawat orang lain sebelum kepentingan diri sendiri adalah apa yang memberi Anda kepuasan. Anda mencintai orang lain sama seperti Anda ingin dicintai kembali dan itu menunjukkan dengan seberapa besar Anda berkorban untuk orang lain. Selain itu, Anda mungkin menyukainya ketika kepribadian Anda yang penuh kasih dan perhatian dikenali. Itu bagus karena itu berarti Anda benar-benar adalah dorongan jiwa nomor 6!
+
+Menjadi seimbang, penuh harmoni, dan selalu menjadi kenyataan adalah yang paling penting bagi 6s. Di sisi lain, karena Anda takut konflik, Anda sering dimanfaatkan. Namun, Anda tidak harus membiarkan orang lain menggertak Anda. Meskipun Anda memiliki sifat yang sangat peduli dan berbelas kasih kepada orang lain, Anda sadar akan perilaku Anda. Dengan mengatakan itu, Anda menikmati membantu orang lain karena itu membuat Anda bahagia, bukan karena Anda merasa tertekan untuk melakukannya.
+
+<br> <b> KEHIDUPAN SOSIAL </b> <br>
+Anda adalah teman yang hebat karena seberapa besar Anda peduli pada orang-orang di sekitar Anda. Orang-orang mempercayai Anda, dan Anda biasanya adalah orang pertama yang mereka datangi ketika mereka membutuhkan seseorang untuk menghibur mereka. Tentu saja, Anda melakukan apa saja untuk membantu teman dan keluarga Anda. Anda seharusnya tidak meragukan diri sendiri ketika mencoba menghibur mereka yang kesakitan. Semua orang yang Anda cintai benar-benar peduli adalah bahwa Anda mendengarkan dan bersimpati dengan mereka, tetapi yang paling penting adalah kenyataan bahwa Anda ada untuk mereka.
+
+<br> <b> HUBUNGAN </b> <br>
+Penting untuk tidak pernah berpikir bahwa cara Anda yang setia dan peduli membuat Anda menjadi orang yang membosankan. Selain itu, kualitas-kualitas inilah yang membuat enam pasangan menjadi pasangan romantis yang hebat. Karena orang secara alami tertarik pada kepribadian Anda yang hangat dan penuh kasih, Anda biasanya mendapatkan rasa hormat dengan cepat. Ini membuat Anda merasakan kepuasan. Anda menginginkan kehidupan sederhana di mana Anda dapat membuat pasangan Anda bahagia dan ini membuat Anda salah satu mitra terbaik yang bisa dimiliki seseorang. Jika seseorang cukup beruntung untuk menjalin hubungan dengan enam orang, mereka mungkin bisa memastikan betapa hebatnya itu!
+
+Bagi Anda, penting untuk memiliki hubungan jangka panjang yang sehat dan tumbuh seiring waktu. Dorongan jiwa nomor 6 biasanya menemukan hubungan yang langgeng ini dan sebagian besar waktu mereka berkembang menjadi pernikahan yang abadi dan memuaskan.
+
+<br> <b> SISI NEGATIF ​​</b> <br>
+Menekankan diri sendiri terlalu banyak pada orang lain bukanlah hal yang baik. Meskipun Anda peduli alam, Anda harus tahu kapan itu mengambil alih Anda dan memengaruhi kesehatan Anda sendiri secara negatif. Cobalah dan cukup dengarkan orang lain dan tawarkan nasihat yang masuk akal sebagai lawan keluar dari cara Anda untuk membantu mereka sepanjang waktu. Selain itu, Anda harus menyadari bahwa hubungan hanya berfungsi ketika kedua pihak berupaya. Jangan biarkan orang lain mengambil keuntungan dari Anda dengan membiarkan Anda melakukan semua kerja keras.
+
+<br> <b> SARAN TERBAIK </b> <br>
+Anda harus memahami bahwa Anda tidak akan dapat membantu semua orang dan tidak ada alasan untuk menekankan masalah orang lain. Ketika seseorang datang kepada Anda untuk meminta bantuan dan tugas itu terlalu berat untuk Anda, cukup katakan bahwa Anda menyesal dan Anda tidak dapat membantu mereka. Meskipun mungkin tampak seperti hal yang tidak ramah untuk dilakukan, Anda harus ingat bahwa Anda harus menjaga diri sendiri terlebih dahulu.
+    ]]></string>
+    <string name="soul_7"><![CDATA[
+        Mereka yang memiliki dorongan jiwa nomor 7 biasanya mematikan dunia luar. Alasannya, adalah karena mereka ingin menghindari gangguan saat mereka mengumpulkan pikiran mereka. Untuk memperjelas, pikiran mereka terus-menerus menganalisis, bekerja keras, dan berpikir tentang dunia dan kehidupan secara umum. Anda menikmati sendirian, membaca, dan mengerjakan hobi Anda. Desakan jiwa nomor 7 tidak terlalu ambisius, sebaliknya mereka lebih suka bersantai dan biasanya tidak peduli dengan apa yang terjadi dengan orang lain. Di sisi lain, Anda adalah seniman yang sangat berbakat dan mendambakan pengetahuan karena pemikiran mereka yang konstan dan sifat analitis. Selain itu, mereka sangat setia, peduli, dan membuat pasangan romantis yang hebat.
+
+Satu kualitas hebat tentang tujuh adalah bahwa mereka sering memiliki pendapat unik dan impian besar. Akibatnya, mereka bisa melupakan masalah mereka dengan cukup mudah saat mereka melarikan diri ke alam semesta mereka sendiri. Selain itu, mereka memahami hal-hal pada tingkat yang lebih dalam daripada kebanyakan dan itu membuat mereka merasa terpisah dari orang lain. Namun, perasaan terlepas ini dapat diatasi dan itulah mengapa Anda perlu melakukan pembacaan numerologi.
+
+
+<br> <b> KEHIDUPAN SOSIAL </b> <br>
+Karena sifat introvert Anda, Anda merasa sulit untuk bersosialisasi dan mendapatkan teman baru. Anda sering hanya memiliki beberapa teman dan bahkan kemudian, Anda tidak menghabiskan banyak waktu dengan mereka. Itu bukan karena Anda tidak ingin keluar dan bersosialisasi tetapi karena Anda lebih menikmati perusahaan Anda sendiri dan lebih suka menyendiri. Itu tidak mengatakan Anda tidak suka berinteraksi dengan teman atau orang lain, Anda lebih suka melakukan hal-hal lain sendirian. Untuk memperjelas, Anda tidak kesulitan bertemu orang baru dan menjalin pertemanan baru, tetapi Anda tidak merasa perlu bergantung pada orang lain untuk hiburan. Anda bisa rukun sendirian.
+
+<br> <b> HUBUNGAN </b> <br>
+dorongan jiwa nomor 7 membuat pasangan romantis yang hebat karena mereka setia dan tidak menimbulkan masalah dalam suatu hubungan.
+Walaupun mungkin tampak seperti 7 tidak akan berhasil dalam suatu hubungan karena sifat introvert mereka, mereka sebenarnya membuat pasangan romantis yang hebat. Misalnya, karena mereka membiarkan sedikit orang masuk ke dalam hidup mereka, mereka memiliki pengabdian, kesetiaan, dan cinta yang besar terhadap pasangan mereka. Mereka juga cenderung tidak menipu atau menyebabkan drama dalam suatu hubungan. Akibatnya, mereka cenderung memiliki pernikahan yang tahan lama dan bahagia.
+
+<br> <b> SISI NEGATIF ​​</b> <br>
+Terkadang, Anda terlalu terputus dari dunia. Anda mundur dari luar begitu banyak sehingga Anda mulai mengembangkan masalah kecemasan dan takut bahwa hal-hal buruk akan terjadi pada Anda. Selain itu, Anda kesulitan mempercayai dan mempercayai orang lain. Anda menuntut bukti bahkan untuk hal-hal terkecil sebelum Anda bisa mempercayainya. Meskipun bersikap skeptis bukan hal yang buruk, bersikap terlalu skeptis dapat menyebabkan masalah bagi Anda.
+Jangan terlalu menjauhkan diri dari dunia. Bertentangan dengan apa yang Anda pikir akan Anda pelajari banyak dari berinteraksi dengan dunia dan orang-orang di dalamnya. Anda harus keluar dari zona nyaman Anda dan bertemu orang baru karena mereka memiliki lebih banyak untuk ditawarkan daripada yang terlihat. Selain itu, jangan berasumsi bahwa Anda lebih bijak atau lebih tahu daripada semua orang karena Anda mungkin terkejut.
+    ]]></string>
+    <string name="soul_8"><![CDATA[
+       Mereka yang dorongan jiwa nomor 8 biasanya menjadi pemimpin atau figur otoritas masyarakat. Mereka bercita-cita menjadi kaya dan mendambakan memiliki kekuatan, kepemilikan materi, dan status tinggi. Selain itu, mereka memiliki impian dan tujuan besar dan mereka tidak akan berhenti sampai mereka menjadi kenyataan. Keyakinan bahwa dorongan jiwa nomor 8 tidak seperti yang lain, dan ambisi mereka memungkinkan mereka untuk menjadi yang terbaik dalam apa pun yang mereka pilih.
+
+Kedua, mereka pandai mengatur orang lain dan menjaga hal-hal berjalan efisien dalam lingkungan bisnis. Mereka memiliki pikiran yang tajam dan mampu membuat keputusan penting dengan cepat dan efektif. Juga, mereka hebat dalam perencanaan dan status mereka adalah simbol kepribadian mereka. Selain itu, mereka menginginkan hal-hal berkualitas tinggi dalam hidup.
+
+<br> <b> KEHIDUPAN SOSIAL </b> <br>
+Anda melakukannya dengan baik dalam pertemuan sosial dan biasanya Anda adalah orang yang mengumpulkan semua orang dan merencanakan acara yang menyenangkan. Tentu saja, ini karena dorongan jiwa nomor 8 secara alami bagus untuk menjadi seorang pemimpin dan perencana hebat. Akibatnya, Anda memiliki banyak teman yang sangat menyukai Anda dan ingin terus berada di dekat Anda. Anda memiliki lingkaran sosial besar dan banyak koneksi yang akan membantu Anda sepanjang hidup. Juga, Anda menjalin pertemanan baru setiap saat karena orang-orang tertarik pada kualitas kepemimpinan alami Anda.
+
+<br> <b> HUBUNGAN </b> <br>
+Sayangnya, Anda dapat kesulitan menemukan pasangan yang romantis karena Anda terlalu sibuk berusaha mencapai kesuksesan.
+Untuk memperjelas, Anda kesulitan menemukan hubungan jangka panjang. Dengan kata lain, gaya hidup Anda yang sibuk dan tujuan ambisius kadang-kadang dapat membuat pasangan Anda merasa mereka adalah yang kedua dalam hidup Anda. Akibatnya, mereka merasa menjauh dari Anda dan seperti mereka tidak mendapatkan perhatian yang mereka butuhkan. Anda harus meluangkan lebih banyak waktu untuk orang lain yang penting dan meyakinkan mereka bahwa apa yang Anda lakukan adalah untuk kepentingan kedua masa depan Anda. Selain itu, cobalah dan temukan seseorang yang dapat menghargai gaya hidup sibuk Anda dan cara-cara yang berorientasi pada tujuan.
+<br> <b> SISI NEGATIF ​​</b> <br>
+Sayangnya, Anda bisa menjadi agak terlalu mengontrol dan suka memerintah di kali. Anda mencoba menjadi figur otoritas dalam segala hal dan bisa menjadi agresif ketika sesuatu membuat Anda marah. Selain itu, Anda bisa menjadi serakah dan kejam terhadap orang lain dalam hal uang dan kesuksesan. Selain itu, ambisi Anda kadang-kadang dapat membuat orang menjauh dari Anda karena itu menjadi satu-satunya fokus mereka untuk sukses dan orang lain akan bosan melihat mereka hanya terobsesi dengan diri mereka sendiri.
+
+<br> <b> SARAN TERBAIK </b> <br>
+Anda seharusnya tidak membiarkan ego Anda lepas kendali. Sadarilah bahwa mendaki ke puncak akan mencakup banyak perjuangan, tetapi Anda tidak boleh melampiaskan kemarahan pada orang yang Anda cintai. Cobalah dan menjadi lebih rendah hati dan jangan terlalu terobsesi dengan kepemilikan materi. Ingat, lebih baik membuat kenangan yang dihargai dengan orang-orang terkasih daripada memiliki banyak barang. Selain itu, jangan biarkan sifat otoritatif Anda mengaburkan pikiran Anda. Anda tidak dapat mengendalikan semuanya jadi pilihlah pertempuran dengan bijak, dan hormati perasaan orang tua Anda.
+    ]]></string>
+    <string name="soul_9"><![CDATA[
+        Jika Anda adalah penuntut jiwa nomor 9 maka Anda harus tahu bahwa itu adalah angka yang paling tanpa pamrih selain menjadi pemimpi terbesar. Selain itu, Anda karismatik dan simpatik dan menjadikan dunia tempat yang lebih baik adalah apa yang Anda yakini sebagai kewajiban Anda. Anda begitu tidak mementingkan diri sendiri sehingga Anda bahkan akan melukai diri sendiri untuk membantu umat manusia. Misalnya, ada kemungkinan Anda mendonorkan darah secara teratur.
+
+Di sisi lain, Anda bisa menjadi mudah marah. Alasannya, adalah karena Anda sensitif dan sangat emosional. Anda suka berdamai dan membawa keharmonisan ke dunia, sehingga ketidaksepakatan atau konflik di antara orang lain dapat membuat Anda sedih. Namun, penting bagi Anda untuk dapat mengatasi perasaan ini.
+
+<br> <b> KEHIDUPAN SOSIAL </b> <br>
+Karena Anda begitu murah hati dengan apa yang Anda miliki, Anda menjalin pertemanan yang mirip dengan Anda. Selain itu, Anda memiliki banyak kenalan santai di sekolah, kantor, dan gym. Anda tidak peduli dengan uang atau kepemilikan materi, Anda lebih suka memiliki pengalaman. Akibatnya, Anda sering bepergian dengan sekelompok teman dan bertemu orang baru di mana pun Anda pergi. Anda agak malu pada awalnya ketika bertemu orang baru tetapi setelah Anda merasa nyaman, Anda akan memperlakukan Anda seperti teman terbaik Anda. Selain itu, Anda suka menyumbangkan waktu Anda untuk tujuan mulia seperti hak-hak binatang, masalah lingkungan, dan membantu para tunawisma.
+
+<br> <b> HUBUNGAN </b> <br>
+Dorongan jiwa nomor 9 biasanya memiliki pernikahan yang tahan lama dan sukses.
+Hubungan jangka panjang adalah standar untuk angka ini. Alasannya, Anda tidak mudah menjalin hubungan dengan siapa pun. Anda menunggu orang yang tepat untuk datang dan mengabdikan diri mereka kepada pasangan romantis mereka. Anda memelihara dan membantu hubungan berkembang menjadi hubungan yang indah dan langgeng. Di sisi lain, dorongan jiwa nomor 9 telah dikenal untuk memilih orang yang salah. Ini karena Anda mudah diyakinkan oleh orang lain dengan lebih banyak pengalaman dan karena Anda pasif Anda dengan mudah jatuh ke dalam perangkap ini. Anda harus berhati-hati saat menjalin hubungan dan dengan cermat memeriksa calon pasangan Anda.
+
+<br> <b> SISI NEGATIF ​​</b> <br>
+Salah satu sifat negatif adalah ketidakmampuan Anda untuk melihat mengapa orang lain tidak berpikir seperti Anda. Dengan kata lain, Anda terkejut ketika Anda menemukan seseorang tidak memiliki kepercayaan moral dan kepedulian yang sama dengan Anda. Akibatnya, Anda akhirnya menjadi sangat sedih karena seseorang tidak seperti yang Anda kira. Jika ini terjadi terlalu banyak, Anda mungkin akan mengalami krisis identitas yang dapat mengubah sifat baik Anda menjadi lebih buruk.
+
+<br> <b> SARAN TERBAIK </b> <br>
+Pahami bahwa tidak semua orang akan berbagi nilai dan moral yang sama dengan Anda. Selain itu, jangan mencoba dan mengubah seseorang yang terlalu jauh dalam etika tidak bermoral. Pada akhirnya Anda hanya dapat benar-benar membantu diri sendiri. Itulah sebabnya Anda perlu belajar bagaimana menjadi yang terbaik yang bisa Anda lakukan sehingga Anda dapat menjalani hidup sepenuhnya.
+    ]]></string>
+    <string name="soul_11"><![CDATA[
+        Peluang apakah Anda digambarkan sebagai kreatif, artistik, karismatik, dan idealis? Selain itu, Anda bahkan mungkin dianggap memiliki sisi psikis untuk Anda. Jika ini terdengar seperti Anda maka Anda mungkin adalah dorongan jiwa nomor 11.
+
+
+<br> <b> KEHIDUPAN SOSIAL </b> <br>
+Karena kemampuan Anda untuk terhubung dengan orang-orang di tingkat yang lebih tinggi, Anda biasanya memiliki beberapa teman baik. Kemungkinan Anda memiliki teman-teman ini sejak kecil, dan mereka hampir seperti saudara kandung yang melakukan semuanya bersama. Alasan mengapa Anda memilih untuk memiliki beberapa teman dekat daripada banyak kenalan adalah karena kemampuan Anda untuk merasakan perasaan orang lain. Dengan kata lain, mereka dapat dengan cepat membedakan siapa teman sejati dengan niat baik sebagai lawan dari teman "palsu" yang hanya ada untuk menggunakannya.
+
+<br> <b> HUBUNGAN </b> <br>
+Dorongan jiwa nomor 11 sangat bagus dalam memilih pasangan romantis. Akibatnya, hubungan Anda langgeng dan berbuah.
+Anda terus-menerus khawatir tentang apa yang orang lain pikirkan tentang Anda karena kesadaran tinggi Anda. Akibatnya, Anda menjadi sangat gugup dan ini menyebabkan kecemasan, terutama ketika Anda berada di sekitar orang yang Anda minati. Anda harus memahami bahwa pasangan Anda tidak memikirkan Anda secara negatif. Jika mereka bersama Anda, itu karena mereka menyukai Anda apa adanya. Tidak perlu merasa gugup atau mencoba menjadi seseorang yang bukan Anda. Hubungan Anda akan luar biasa karena Anda sama baiknya dalam memilih pasangan romantis seperti halnya Anda memilih teman-teman Anda.
+
+<br> <b> SISI NEGATIF ​​</b> <br>
+Meskipun Anda seorang yang berbakti dengan pikiran yang tajam, Anda dengan mudah menjadi korban mentalitas Anda sendiri. Untuk memperjelas, Anda akan sering khawatir tentang detail terkecil dalam hidup Anda. Jika sesuatu tidak sempurna, Anda sangat stres karenanya. Selain itu, jika Anda tidak khawatir tentang sesuatu maka Anda akan menemukan sesuatu untuk dikhawatirkan. Akibatnya, Anda sering mencoba untuk "memperbaiki apa yang tidak rusak" dan sebagian besar waktu itu hanya membuat segalanya menjadi lebih buruk. Ini bisa menjadi lingkaran setan yang sulit untuk dilanggar dan jika dibiarkan, dapat berdampak negatif bagi hidup Anda.
+
+<br> <b> SARAN TERBAIK </b> <br>
+Pertama, jangan memperburuk keadaan! Jika sesuatu berhasil, biarkan saja. Hanya karena beberapa detail kecil dalam pertemanan atau hubungan Anda mengganggumu bukan akhir dari dunia. Selain itu, walaupun mungkin Anda dapat menyelesaikan detail kecil ini, Anda harus bertanya pada diri sendiri “apakah itu layak”? Lebih sering daripada tidak lebih baik meninggalkan hal-hal apa adanya. Pada akhirnya, ketenangan pikiran Anda jauh lebih bermanfaat bagi Anda daripada memperbaiki sesuatu yang tidak berarti.
+
+    ]]></string>
+    <string name="soul_22"><![CDATA[
+  Dorongan jiwa nomor 22 dianggap sebagai nomor induk dalam numerologi.
+Salah satu fokus utama dari angka ini adalah meninggalkan warisan yang hebat. Untuk memperjelas, Anda adalah visioner yang cerdas, bijaksana, dan hebat. Adalah keinginan Anda untuk menjadi bagian dari proyek besar yang akan selamanya hilang dalam sejarah. Untuk bisa mengatakan Anda membuat perbedaan dengan waktu Anda di bumi adalah apa yang paling Anda inginkan. Akibatnya, Anda membuat pemimpin yang bijaksana yang menemukan teman-teman setia di antara pengikut Anda. Jika Anda merasa ini adalah tugas yang menakutkan, maka jangan khawatir ..
+
+
+<br> <b> KEHIDUPAN SOSIAL </b> <br>
+Teman-teman yang Anda temui sepanjang hidup mungkin akan berasal dari waktu yang Anda habiskan untuk mengejar tujuan Anda. Misalnya, saat Anda belajar, Anda akan menemukan orang lain yang memiliki minat akademik yang sama dengan Anda. Juga, saat Anda bekerja keras dalam pekerjaan Anda, Anda akan membuat banyak koneksi untuk membantu Anda dalam mengamankan warisan Anda. Selain itu, Anda akan membentuk grup niche ketat yang dengan bangga akan mengikuti Anda di jalan untuk mencapai hal-hal besar.
+
+<br> <b> HUBUNGAN </b> <br>
+Karena gaya hidup sibuk Anda tidak memberi mereka banyak waktu, sulit bagi Anda untuk menemukan hubungan yang stabil. Untuk memperjelas, hubungan Anda tidak bertahan lama karena itu bukan prioritas nomor satu Anda. Namun, itu tidak berarti Anda tidak dapat menemukan cinta. Anda hanya perlu mencari sedikit lebih keras daripada kebanyakan. Sangat penting untuk menemukan pasangan romantis yang kompatibel dengan Anda dan memahami gaya hidup sibuk Anda.
+
+
+<br> <b> SISI NEGATIF ​​</b> <br>
+Meskipun Anda memiliki banyak sifat positif, seperti bisa melihat gambaran besar tentang berbagai hal dan menjadi kreatif, Anda perlu berhati-hati. Artinya, kadang-kadang ego Anda tidak terkendali dan mereka menjadi mudah tersinggung dan kesal pada hal-hal kecil. Misalnya, jika seseorang tidak setuju dengan studi dan pengamatan Anda, Anda menganggapnya sebagai penghinaan pribadi terhadap Anda. Selain itu, Anda memiliki kecenderungan untuk membiarkan harga diri Anda mendapatkan yang terbaik dari mereka, terutama ketika Anda mencapai tujuan tertentu. Terlalu percaya diri ini terkadang membuat Anda membuat keputusan yang buruk.
+
+<br> <b> SARAN TERBAIK </b> <br>
+Penting agar Anda tetap rendah hati setiap saat. Bahkan jika Anda memiliki alasan untuk menyombongkan diri dan bangga dengan prestasi Anda, Anda tidak harus menjadi sombong. Selain itu, jangan biarkan orang lain masuk ke dalam kulit Anda. Biarkan saja mereka berbicara dan buktikan kesalahan mereka melalui tindakan Anda.
+    ]]></string>
+
 </resources>

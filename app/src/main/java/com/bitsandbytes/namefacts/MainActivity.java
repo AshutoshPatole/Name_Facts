@@ -23,16 +23,16 @@ import hotchemi.android.rate.OnClickButtonListener;
 
 public class MainActivity extends AppCompatActivity {
 
-    private TextView mDisplayDate;
     private DatePickerDialog.OnDateSetListener mDateSetListener;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_main);
 
-        mDisplayDate = findViewById(R.id.tvDate);
+        TextView mDisplayDate = findViewById(R.id.tvDate);
 
 
         AppRate.with(MainActivity.this)
@@ -74,12 +74,12 @@ public class MainActivity extends AppCompatActivity {
         mDateSetListener = new DatePickerDialog.OnDateSetListener() {
             @Override
             public void onDateSet(DatePicker datePicker, int year, int month, int day) {
-                month = month + 1;
                 startActivity(new Intent(MainActivity.this, Name_Details.class));
             }
         };
 
     }
+
 
     private Boolean exit = false;
 

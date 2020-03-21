@@ -32,7 +32,7 @@ public class Soul_urge extends AppCompatActivity {
         final TextView FactsAbout = findViewById(R.id.facts_about);
 
 
-        FactsAbout.setText("about" + " " + intent.getStringExtra("Soul"));
+        FactsAbout.setText(R.string.about + " " + intent.getStringExtra("Soul"));
         int size, counter = 0, number = 0;
         char a;
         size = vowels.length();

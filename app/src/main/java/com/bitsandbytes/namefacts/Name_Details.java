@@ -40,7 +40,7 @@ public class Name_Details extends AppCompatActivity {
                String userName = fullName.getText().toString().trim();
                if (!TextUtils.isEmpty(userName)) {
 
-                   FactsAbout.setText("about"+" "+userName);
+                   FactsAbout.setText(R.string.about+" "+userName);
 
                    if (Hide.getVisibility() == View.VISIBLE) {
                        Hide.setVisibility(View.INVISIBLE);
