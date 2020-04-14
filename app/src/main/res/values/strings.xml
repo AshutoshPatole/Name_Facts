@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="app_name">NameFacts</string>
     <string name="want_to_know">Want to know more about yourSelf ?</string>
     <string name="dob">Enter Your DOB</string>
@@ -9,7 +9,7 @@
     <string name="about">about</string>
     <string name="facts_about">Facts</string>
     <string name="Support">Support Us</string>
-    <string name="you_are">you are</string>
+    <string name="you_are">you are </string>
     <string name="soul_definition">The Soul Urge Number (sometimes called The Heart\'s Desire Number) is derived from your name. To clarify, it is derived from the vowels in your name (full birth name). This number represents your inner self. In addition, your soul urge number knows what your desires, likes/dislikes, motivators and needs are.</string>
     <string name="click_pen">Please Click on the pen above</string>
     <string name="full_name">Enter your full name</string>
@@ -487,7 +487,13 @@ While you have many positive qualities, such as being able to see the big pictur
 <br><b>BEST ADVICE</b><br>
 It’s important that you remain humble at all times. Even if you have reason to boast and be proud of your accomplishments you shouldn’t become arrogant. In addition, don’t let others get under your skin. Simply let them talk and prove them wrong through your actions.
     ]]></string>
+
+
     <string name="app_title">Name Facts</string>
+    <string name="try_out_our_other_apps">Try Out Our Other Apps</string>
+    <string name="support_us_install">Support us if you liked NameFacts by installing our other app</string>
+    <string name="coding_monkey">Coding Monkey</string>
+    <string name="install">Install</string>
 
 
 </resources>

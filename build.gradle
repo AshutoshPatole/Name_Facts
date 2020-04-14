@@ -4,10 +4,10 @@ buildscript {
     repositories {
         google()
         jcenter()
-        
+
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.6.1'
+        classpath 'com.android.tools.build:gradle:3.6.2'
 
     }
 }
@@ -16,10 +16,15 @@ allprojects {
     repositories {
         google()
         jcenter()
+        mavenCentral()
         maven
                 {
                     url "https://jitpack.io"
                 }
+
+        maven {
+            url "https://adcolony.bintray.com/AdColony"
+        }
 
     }
 }

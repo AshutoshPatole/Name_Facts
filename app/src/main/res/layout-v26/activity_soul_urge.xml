@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -13,9 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="6dp"
         android:gravity="center"
-        android:orientation="horizontal"
-
-        >
+        android:orientation="horizontal">
 
         <TextView
             android:layout_width="wrap_content"
@@ -39,6 +38,7 @@
     </LinearLayout>
 
     <ScrollView
+        android:id="@+id/scroll"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingHorizontal="35dp"
@@ -72,34 +72,12 @@
                 android:textColor="@color/black"
                 android:textSize="15sp" />
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="15dp"
-                android:orientation="horizontal"
-                tools:ignore="UseCompoundDrawables">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_vertical"
-                    android:layout_marginEnd="20dp"
-                    android:layout_marginStart="15dp"
-                    android:text="@string/Support"
-                    android:textColor="@android:color/black"
-                    android:textSize="16sp"
-                    />
-
-                <ImageView
-                    android:id="@+id/buttonShareImage"
-                    android:layout_width="150dp"
-                    android:layout_height="80dp"
-                    android:layout_gravity="center"
-                    android:src="@drawable/pen_next"
-                    tools:ignore="ContentDescription" />
-
-
-            </LinearLayout>
+            <ImageView
+                android:id="@+id/nextScreen"
+                android:layout_width="146dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:src="@drawable/pen_next" />
 
         </LinearLayout>
 

@@ -75,11 +75,10 @@
 
             <ImageView
                 android:id="@+id/penNameDetails"
-                android:layout_width="150dp"
+                android:layout_width="146dp"
                 android:layout_height="80dp"
                 android:layout_gravity="center"
-                android:src="@drawable/pen_next"
-                />
+                android:src="@drawable/pen_next" />
 
             <TextView
                 android:id="@+id/NameCalculate"

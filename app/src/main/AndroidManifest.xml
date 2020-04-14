@@ -3,30 +3,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.bitsandbytes.namefacts">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
     <application
         android:icon="@mipmap/icon"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+        <activity android:name=".Other_Apps">
+
+        </activity>
 
 
         <activity
-            android:name="com.bitsandbytes.namefacts.Soul_urge"
+            android:name=".Soul_urge"
             android:screenOrientation="fullSensor">
 
         </activity>
         <activity
-            android:name="com.bitsandbytes.namefacts.MainActivity"
+            android:name=".MainActivity"
             android:screenOrientation="fullSensor" />
         <activity
-            android:name="com.bitsandbytes.namefacts.Name_Details"
+            android:name=".Name_Details"
             android:screenOrientation="fullSensor" />
         <activity
-            android:name="com.bitsandbytes.namefacts.SpalshScreen"
+            android:name=".SpalshScreen"
             android:screenOrientation="fullSensor">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -36,8 +36,17 @@
         </activity>
 
         <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-app6f1ca86cfc134df5b2" />
+
+        <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+
+
     </application>
 
 </manifest>

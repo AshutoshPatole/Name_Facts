@@ -40,7 +40,7 @@ public class Name_Details extends AppCompatActivity {
                String userName = fullName.getText().toString().trim();
                if (!TextUtils.isEmpty(userName)) {
 
-                   FactsAbout.setText(R.string.about+" "+userName);
+                   FactsAbout.setText(getString(R.string.about)+" "+userName);
 
                    if (Hide.getVisibility() == View.VISIBLE) {
                        Hide.setVisibility(View.INVISIBLE);
@@ -121,27 +121,27 @@ public class Name_Details extends AppCompatActivity {
                int ExpressionInt = Integer.parseInt(nameCalculate.getText().toString());
 
                if (ExpressionInt == 3) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + getString(R.string.expression_3)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + " "+getString(R.string.expression_3)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 2) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + getString(R.string.expression_2)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) +" "+ getString(R.string.expression_2)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 4) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + getString(R.string.expression_4)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) +" "+ getString(R.string.expression_4)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 5) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + getString(R.string.expression_5)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) +" "+ getString(R.string.expression_5)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 6) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are)+ getString(R.string.expression_6)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are)+ " "+getString(R.string.expression_6)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 7) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + getString(R.string.expression_7)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) +" "+ getString(R.string.expression_7)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 8) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are)+ getString(R.string.expression_8)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are)+ " "+getString(R.string.expression_8)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 9) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + getString(R.string.expression_9)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + " "+getString(R.string.expression_9)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 1) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + getString(R.string.expression_1)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) +" "+ getString(R.string.expression_1)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 11) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " +R.string.you_are + getString(R.string.expression_11)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " +R.string.you_are + " "+getString(R.string.expression_11)+ getString(R.string.click_pen)));
                } else if (ExpressionInt == 22) {
-                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + getString(R.string.expression_22)+ getString(R.string.click_pen)));
+                   Expression.setText(Html.fromHtml("Hi" + " " + fullName.getText().toString() + " " + getString(R.string.you_are) + " "+getString(R.string.expression_22)+ getString(R.string.click_pen)));
                }
 
            }

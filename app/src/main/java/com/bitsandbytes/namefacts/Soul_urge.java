@@ -7,6 +7,7 @@ import android.os.Handler;
 import android.text.Html;
 import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -16,6 +17,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class Soul_urge extends AppCompatActivity {
 
+
     @SuppressLint("SetTextI18n")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,17 +26,24 @@ public class Soul_urge extends AppCompatActivity {
 
         Intent intent = getIntent();
         String vowels = intent.getStringExtra("Soul");
-        Log.d("Ashutosh", "String Loaded: " + vowels);
 
         TextView soulNumber = findViewById(R.id.soulUrge_Number);
         TextView soulData = findViewById(R.id.SoulUrge_data);
-        ImageView share = findViewById(R.id.buttonShareImage);
         final TextView FactsAbout = findViewById(R.id.facts_about);
+        final ImageView next = findViewById(R.id.nextScreen);
+
+        next.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Soul_urge.this, Other_Apps.class));
+            }
+        });
 
 
-        FactsAbout.setText(R.string.about + " " + intent.getStringExtra("Soul"));
+        FactsAbout.setText(getString(R.string.about) + " " + intent.getStringExtra("Soul"));
         int size, counter = 0, number = 0;
         char a;
+        assert vowels != null;
         size = vowels.length();
         while (counter < size) {
             a = vowels.charAt(counter);
@@ -102,18 +111,6 @@ public class Soul_urge extends AppCompatActivity {
 
         }
 
-        share.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent myIntent = new Intent(Intent.ACTION_SEND);
-                myIntent.setType("text/plain");
-                String shareBody = "Support and follow our page https://www.instagram.com/bits._.and._.bytes/\n\n\n" +
-                        "Download our app https://play.google.com/store/apps/details?id=com.bitbytes.namefacts";
-                myIntent.putExtra(Intent.EXTRA_SUBJECT, shareBody);
-                myIntent.putExtra(Intent.EXTRA_TEXT, shareBody);
-                startActivity(Intent.createChooser(myIntent, "Share using"));
-            }
-        });
 
     }
 
@@ -138,4 +135,5 @@ public class Soul_urge extends AppCompatActivity {
         }
 
     }
+
 }

@@ -9,8 +9,12 @@
     <string name="Next">आगे</string>
     <string name="facts_about">तथ्य</string>
     <string name="Support">हमें सहयोग दीजिये</string>
-    <string name="you_are">तुम हो</string>
+    <string name="you_are">तुम हो </string>
     <string name="about">के बारे में</string>
+    <string name="try_out_our_other_apps">हमारे अन्य एप्लिकेशन आज़माएं</string>
+    <string name="support_us_install">यदि आप नाम तथ्यों को पसंद करते हैं, तो हमारे अन्य एप्लिकेशन इंस्टॉल करें</string>
+    <string name="coding_monkey">Coding Monkey</string>
+    <string name="install">इंस्टॉल</string>
 
 
     <string name="soul_definition">आत्मा आग्रह संख्या (जिसे कभी-कभी हृदय की इच्छा संख्या कहा जाता है) आपके नाम से ली गई है। स्पष्ट करने के लिए, यह आपके नाम (पूर्ण जन्म नाम) में स्वरों से लिया गया है। यह संख्या आपके आंतरिक स्व का प्रतिनिधित्व करती है। इसके अलावा, आपकी आत्मा का आग्रह नंबर जानता है कि आपकी इच्छाएं, पसंद / नापसंद, प्रेरक और आवश्यकताएं क्या हैं।</string>

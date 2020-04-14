@@ -22,15 +22,13 @@ import hotchemi.android.rate.AppRate;
 import hotchemi.android.rate.OnClickButtonListener;
 
 public class MainActivity extends AppCompatActivity {
-
     private DatePickerDialog.OnDateSetListener mDateSetListener;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         setContentView(R.layout.activity_main);
+
 
         TextView mDisplayDate = findViewById(R.id.tvDate);
 
