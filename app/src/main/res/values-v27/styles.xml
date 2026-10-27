@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- windowLightNavigationBar was added in API 27. -->
+    <style name="AppTheme.LightBars" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/dobpaper</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+</resources>

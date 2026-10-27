@@ -1,139 +1,106 @@
 package com.bitsandbytes.namefacts;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Handler;
-import android.text.Html;
-import android.util.Log;
-import android.view.View;
-import android.view.ViewGroup;
+import android.text.TextUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-
 public class Soul_urge extends AppCompatActivity {
 
+    private TextStreamer soulStreamer;
 
-    @SuppressLint("SetTextI18n")
+    @android.annotation.SuppressLint("SetTextI18n")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_soul_urge);
 
+        ViewUtils.applySystemWindowInsetsPadding(findViewById(R.id.root_soul_urge));
+
         Intent intent = getIntent();
-        String vowels = intent.getStringExtra("Soul");
+        String soulName = (intent != null && intent.hasExtra("Soul"))
+                ? intent.getStringExtra("Soul")
+                : "";
+        if (soulName == null) {
+            soulName = "";
+        }
 
-        TextView soulNumber = findViewById(R.id.soulUrge_Number);
-        TextView soulData = findViewById(R.id.SoulUrge_data);
-        final TextView FactsAbout = findViewById(R.id.facts_about);
-        final ImageView next = findViewById(R.id.nextScreen);
+        TextView soulNumberView = findViewById(R.id.soulUrge_Number);
+        TextView soulDataView = findViewById(R.id.SoulUrge_data);
+        TextView factsAbout = findViewById(R.id.facts_about);
+        ImageView next = findViewById(R.id.nextScreen);
 
-        next.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(Soul_urge.this, Other_Apps.class));
-            }
+        next.setOnClickListener(v -> {
+            Intent nextIntent = new Intent(Soul_urge.this, MainActivity.class);
+            nextIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
+            startActivity(nextIntent);
+            finish();
         });
 
+        factsAbout.setText(getString(R.string.about) + " " + soulName);
 
-        FactsAbout.setText(getString(R.string.about) + " " + intent.getStringExtra("Soul"));
-        int size, counter = 0, number = 0;
-        char a;
-        assert vowels != null;
-        size = vowels.length();
-        while (counter < size) {
-            a = vowels.charAt(counter);
-            if (a == 'a' || a == 'A') {
-                number += 1;
-            } else if (a == 'u' || a == 'U') {
-                number += 3;
-            } else if (a == 'e' || a == 'E') {
-                number += 5;
-            } else if (a == 'o' || a == 'O') {
-                number += 6;
-            } else if (a == 'i' || a == 'I') {
-                number += 9;
-            }
-            counter++;
+        int vowelSum = calculateVowelSum(soulName);
+        int finalResult = NumerologyUtils.reduce(vowelSum);
+
+        soulNumberView.setText(String.valueOf(finalResult));
+
+        int stringRes = getSoulStringRes(finalResult);
+        if (stringRes != 0) {
+            String html = "Hi " + soulName + ",  " + getString(R.string.soul_definition) + getString(stringRes);
+            soulStreamer = TextStreamer.stream(soulDataView, html);
+        } else {
+            soulDataView.setText("");
         }
-        int total = 0, remainder, result = 0;
-        total += number;
-        while (total > 0) {
-            remainder = total % 10;
-            result += remainder;
-            total = total / 10;
-
-        }
-        int tot, finalResult = 0;
-        while (result != 0) {
-            tot = result % 10;
-            finalResult += tot;
-            result /= 10;
-
-        }
-        soulNumber.setText(String.valueOf(finalResult));
-
-        if (finalResult == 1) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_1)));
-        } else if (finalResult == 2) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_2)));
-
-        } else if (finalResult == 3) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_3)));
-
-        } else if (finalResult == 4) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_4)));
-
-        } else if (finalResult == 5) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_5)));
-
-        } else if (finalResult == 6) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_6)));
-
-        } else if (finalResult == 7) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_7)));
-
-        } else if (finalResult == 8) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_8)));
-
-        } else if (finalResult == 9) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_9)));
-
-        } else if (finalResult == 11) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_11)));
-
-        } else if (finalResult == 22) {
-            soulData.setText(Html.fromHtml("Hi" + " " + intent.getStringExtra("Soul") + ",  " + getString(R.string.soul_definition) + getString(R.string.soul_22)));
-
-        }
-
-
     }
-
-
-    private Boolean exit = false;
 
     @Override
-    public void onBackPressed() {
-        if (exit) {
-            finish();
-        } else {
-            Toast.makeText(this, "Press Back again to Exit.",
-                    Toast.LENGTH_SHORT).show();
-            exit = true;
-            new Handler().postDelayed(new Runnable() {
-                @Override
-                public void run() {
-                    exit = false;
-                }
-            }, 3 * 1000);
-
+    protected void onDestroy() {
+        super.onDestroy();
+        if (soulStreamer != null) {
+            soulStreamer.cancel();
         }
-
     }
 
+    private int calculateVowelSum(String text) {
+        if (TextUtils.isEmpty(text)) {
+            return 0;
+        }
+        int sum = 0;
+        int length = text.length();
+        for (int i = 0; i < length; i++) {
+            char a = text.charAt(i);
+            if (a == 'a' || a == 'A') {
+                sum += 1;
+            } else if (a == 'u' || a == 'U') {
+                sum += 3;
+            } else if (a == 'e' || a == 'E') {
+                sum += 5;
+            } else if (a == 'o' || a == 'O') {
+                sum += 6;
+            } else if (a == 'i' || a == 'I') {
+                sum += 9;
+            }
+        }
+        return sum;
+    }
+
+    private int getSoulStringRes(int soulNumber) {
+        return switch (soulNumber) {
+            case 1 -> R.string.soul_1;
+            case 2 -> R.string.soul_2;
+            case 3 -> R.string.soul_3;
+            case 4 -> R.string.soul_4;
+            case 5 -> R.string.soul_5;
+            case 6 -> R.string.soul_6;
+            case 7 -> R.string.soul_7;
+            case 8 -> R.string.soul_8;
+            case 9 -> R.string.soul_9;
+            case 11 -> R.string.soul_11;
+            case 22 -> R.string.soul_22;
+            default -> 0;
+        };
+    }
 }

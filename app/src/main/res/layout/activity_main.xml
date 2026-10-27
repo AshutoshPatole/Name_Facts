@@ -2,10 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@drawable/dobpaper"
-    android:orientation="vertical">
-
+    android:layout_height="match_parent">
 
     <TextView
         android:layout_width="wrap_content"
@@ -18,9 +15,7 @@
         android:textColor="@android:color/holo_orange_dark"
         android:textSize="40sp" />
 
-
     <LinearLayout
-
         android:id="@+id/details"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -28,7 +23,6 @@
         android:layout_centerVertical="true"
         android:gravity="center"
         android:orientation="vertical">
-
 
         <TextView
             android:layout_width="wrap_content"
@@ -39,36 +33,16 @@
             android:textColorHint="#000000"
             android:textSize="17sp" />
 
-        <TextView
+        <Button
+            android:id="@+id/btnGetStarted"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="30sp"
-            android:fontFamily="sans-serif-black"
-            android:text="@string/dob"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/btn_outline"
+            android:text="@string/get_started"
             android:textColor="@android:color/holo_orange_dark"
-            android:textSize="20sp" />
-
-        <TextView
-            android:id="@+id/tvDate"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:hint="@string/date_format"
-            android:textColor="#000000"
-            android:textSize="25sp"
-
-            />
-
-        <View
-            android:layout_width="200dp"
-            android:layout_height="0.5dp"
-            android:layout_gravity="center"
-            android:layout_marginTop="5dp"
-            android:background="@android:color/background_dark" />
+            android:textSize="16sp" />
 
     </LinearLayout>
-
 
 </RelativeLayout>

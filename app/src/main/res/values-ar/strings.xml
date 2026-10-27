@@ -5,18 +5,15 @@
     <string name="dob">أدخل DOB الخاص بك</string>
     <string name="love">تريد أن تعرف المزيد عن حياتك العاطفية وعلاقاتك؟</string>
     <string name="submit">إرسال</string>
-    <string name="Next">التالى</string>
+    <string name="Next">التالي</string>
     <string name="about">حول</string>
     <string name="facts_about">حقائق</string>
     <string name="Support">ادعمنا</string>
     <string name="you_are">أنت</string>
     <string name="soul_definition">رقم حث الروح (يسمى أحيانًا رقم رغبة القلب) مشتق من اسمك. للتوضيح ، مشتق من حروف العلة في اسمك (اسم الميلاد الكامل). يمثل هذا الرقم نفسك الداخلية. بالإضافة إلى ذلك ، فإن رقم حث روحك يعرف رغباتك ، وما يعجبك / لا يعجبك ، والمحفزات والاحتياجات.</string>
     <string name="click_pen">الرجاء الضغط على القلم أعلاه</string>
-    <string name="full_name">أدخل اسمك الكامل</string>
-    <string name="support_us_install">ادعمنا إذا أحببت NameFacts من خلال تثبيت تطبيقنا الآخر</string>
+    <string name="full_name">الرجاء إدخال اسمك</string>
     <string name="app_title">حقائق الاسم</string>
-    <string name="try_out_our_other_apps">جرب تطبيقاتنا الأخرى</string>
-    <string name="install">تثبيت</string>
     <string name="coding_monkey">ترميز القرد</string>
 
 

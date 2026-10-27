@@ -1,34 +1,8 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
-
-buildscript {
-    repositories {
-        google()
-        jcenter()
-
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:3.6.2'
-
-    }
+plugins {
+    id 'com.android.application' version '9.4.1' apply false
 }
 
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        mavenCentral()
-        maven
-                {
-                    url "https://jitpack.io"
-                }
-
-        maven {
-            url "https://adcolony.bintray.com/AdColony"
-        }
-
-    }
-}
-
-task clean(type: Delete) {
-    delete rootProject.buildDir
+tasks.register('clean', Delete) {
+    delete rootProject.layout.buildDirectory
 }

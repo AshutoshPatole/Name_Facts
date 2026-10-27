@@ -1,27 +1,62 @@
-apply plugin: 'com.android.application'
+plugins {
+    id 'com.android.application'
+}
+
+def keystorePropertiesFile = rootProject.file('keystore.properties')
+def keystoreProperties = new Properties()
+if (keystorePropertiesFile.exists()) {
+    keystorePropertiesFile.withInputStream { keystoreProperties.load(it) }
+}
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.2"
-    defaultConfig {
-        applicationId "com.bitbytes.namefacts"
-        minSdkVersion 18
-        targetSdkVersion 29
-        versionCode 14
-        versionName "2.2.3"
+    namespace 'com.bitsandbytes.namefacts'
+
+    compileSdk {
+        version = release(37)
     }
+
+    defaultConfig {
+        applicationId 'com.bitbytes.namefacts'
+        minSdk 23
+        targetSdk 37
+        versionCode 15
+        versionName '3.0.0'
+    }
+
+    if (keystorePropertiesFile.exists()) {
+        signingConfigs {
+            release {
+                storeFile rootProject.file(keystoreProperties['storeFile'])
+                storePassword keystoreProperties['storePassword']
+                keyAlias keystoreProperties['keyAlias']
+                keyPassword keystoreProperties['keyPassword']
+            }
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled true
             shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            if (keystorePropertiesFile.exists()) {
+                signingConfig signingConfigs.release
+            }
         }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    buildFeatures {
+        buildConfig false
     }
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'androidx.appcompat:appcompat:1.1.0'
-    implementation 'org.sufficientlysecure:html-textview:3.8'
+    implementation 'androidx.appcompat:appcompat:1.8.0'
     implementation 'com.github.hotchemi:android-rate:1.0.1'
+    testImplementation 'junit:junit:4.13.2'
 }

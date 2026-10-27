@@ -6,9 +6,12 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="color">@color/black</item>
     </style>
 
-
+    <!-- Used by screens with a light (parchment) background so the system bar icons stay legible and window overdraw is avoided. -->
+    <style name="AppTheme.LightBars" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/dobpaper</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
 
 </resources>

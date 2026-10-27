@@ -12,3 +12,14 @@
 /captures
 .externalNativeBuild
 .cxx
+keystore.properties
+*.jks
+*.keystore
+*.der
+*.pem
+*.p12
+*.key
+*.bks
+/.idea/deploymentTargetSelector.xml
+/.idea/appInsightsSettings.xml
+/app/build/

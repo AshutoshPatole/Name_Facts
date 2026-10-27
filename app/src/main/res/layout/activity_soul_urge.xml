@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_soul_urge"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/dobpaper"
     tools:context=".Soul_urge">
-
 
     <LinearLayout
         android:id="@+id/Facts"
@@ -14,9 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="6dp"
         android:gravity="center"
-        android:orientation="horizontal"
-
-        >
+        android:orientation="horizontal">
 
         <TextView
             android:layout_width="wrap_content"
@@ -31,23 +27,20 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginStart="10dp"
-            android:layout_marginLeft="10dp"
             android:text=""
             android:textColor="@android:color/black"
-
-
             android:textSize="15sp" />
     </LinearLayout>
-
 
     <ScrollView
         android:id="@+id/scroll"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/Facts"
         android:paddingHorizontal="35dp"
-        android:paddingVertical="50dp"
+        android:paddingVertical="40dp"
         android:scrollbars="none"
-        tools:ignore="UnusedAttribute,UselessParent">
+        tools:ignore="UselessParent">
 
         <LinearLayout
             android:id="@+id/linear1"
@@ -58,34 +51,44 @@
             <TextView
                 android:id="@+id/soulUrge_Number"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:gravity="center"
                 android:textColor="@android:color/black"
                 android:textSize="20sp" />
 
             <TextView
-                android:id="@+id/SoulUrge_data"
+                android:id="@+id/soul_data_heading"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="24dp"
                 android:gravity="center"
+                android:text="@string/soul_meaning"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/SoulUrge_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="start"
+                android:lineSpacingMultiplier="1.3"
                 android:text=""
                 android:textColor="@color/black"
-                android:textSize="15sp" />
+                android:textSize="16sp" />
 
             <ImageView
                 android:id="@+id/nextScreen"
-                android:layout_width="146dp"
+                android:layout_width="150dp"
                 android:layout_height="80dp"
                 android:layout_gravity="center"
+                android:contentDescription="@string/new_reading"
                 android:src="@drawable/pen_next" />
 
-
         </LinearLayout>
-
     </ScrollView>
-
 
 </RelativeLayout>

@@ -1,51 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.bitsandbytes.namefacts">
+    xmlns:tools="http://schemas.android.com/tools">
 
     <application
+        android:allowBackup="true"
+        android:enableOnBackInvokedCallback="true"
         android:icon="@mipmap/icon"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
-        <activity android:name=".Other_Apps">
+        tools:ignore="GoogleAppIndexingWarning"
+        tools:targetApi="33">
 
-        </activity>
-
-
-        <activity
-            android:name=".Soul_urge"
-            android:screenOrientation="fullSensor">
-
-        </activity>
-        <activity
-            android:name=".MainActivity"
-            android:screenOrientation="fullSensor" />
-        <activity
-            android:name=".Name_Details"
-            android:screenOrientation="fullSensor" />
         <activity
             android:name=".SpalshScreen"
-            android:screenOrientation="fullSensor">
+            android:exported="true"
+            android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-app6f1ca86cfc134df5b2" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:theme="@style/AppTheme.LightBars" />
+
+        <activity
+            android:name=".Name_Details"
+            android:exported="false"
+            android:theme="@style/AppTheme.LightBars" />
+
+        <activity
+            android:name=".Soul_urge"
+            android:exported="false"
+            android:theme="@style/AppTheme.LightBars" />
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
-        <meta-data
-            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
-            android:value="true" />
-
 
     </application>
 
